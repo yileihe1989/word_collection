@@ -51,7 +51,6 @@ def execute_learning(words_collection,end_point):
             ifcont = input("If Continue?")
         else:
             continue
-
     print("Total sentences reviewed today is {}".format(len(reviewed)))
 
 
@@ -60,7 +59,6 @@ if __name__ == "__main__":
     words_collection = read_data(file_path)
     count_treshold = int(input("Less than?"))
     end_index = bs_find_index(words_collection, count_treshold)
-
     execute_learning(words_collection, end_index)
 
     fwrite = open(file_path, "w")
