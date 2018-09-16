@@ -8,7 +8,7 @@ We are impressed with small feats accomplished by computers alone, but we ignore
 Tour de force	0
 A emphatic refusal	0
 persist against all odds	0
-stigma	0
+stigma	1
 Because it looked backward, not forward. It tethered the place to the status quo.	0
 In my experience, when they go out our research trips, they always come back changed.	0
 Idiom: pull their punches	0
