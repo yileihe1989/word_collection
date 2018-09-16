@@ -5,12 +5,9 @@ import textwrap
 def word_preprocess(item):
     if len(item) <= 1:
         raise Exception("Invalid word item: {}".format(item))
-
     item_clean = [i for i in item if i != ""] if len(item) > 2 else item
-
     if len(item_clean) > 2:
         raise Exception("Invalid word item: {}".format(item_clean))
-
     item_clean[-1] = int(item_clean[-1])
 
     return item_clean
@@ -22,7 +19,6 @@ def read_data(path):
     for line in freader:
         item = line.strip().split("\t")
         item_clean = word_preprocess(item)
-
         words_collection.append(item_clean)
 
     freader.close()
