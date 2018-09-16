@@ -6,7 +6,7 @@ virtuoso	0
 Even if it is a top of the funnel problem, it is unreasonable to ask companies to wait for designers to surface in due course and not an option for many startups with limited runway.	0
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny	0
 Tour de force	0
-A emphatic refusal	0
+A emphatic refusal	1
 persist against all odds	0
 stigma	1
 Because it looked backward, not forward. It tethered the place to the status quo.	0
