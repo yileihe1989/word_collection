@@ -6,33 +6,31 @@ virtuoso	0
 Even if it is a top of the funnel problem, it is unreasonable to ask companies to wait for designers to surface in due course and not an option for many startups with limited runway.	0
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny	0
 Tour de force	0
-A emphatic refusal	1
 persist against all odds	0
-stigma	1
-Because it looked backward, not forward. It tethered the place to the status quo.	0
+Because it looked backward, not forward. It tethered the place to the status quo.	1
 In my experience, when they go out our research trips, they always come back changed.	0
 Idiom: pull their punches	0
 Their combined model was more complex - and more limiting - than either of the models would have been on its own.	0
 disparate views	0
 The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see.	0
 I would let him go right off the bat.	0
-vagary of weather	0
+vagary of weather	1
 perpetrate	0
-Add *cachet* with my books and academic position	0
-a abiding hobby/passion	0
+cachet	1
+a abiding hobby/passion | I cannot abide to go back to square one	1
 These problmes must be dealt with anew | Think anew	0
 intransigence	0
 incipient	0
 Such grandiose forecast kindles anxity as well as hope	0
-decorum = etiquette	0
+decorum = etiquette	1
 We are endowed by the creator with certain unalienable rights.	0
 Yet the system is not impervious to fraud.	0
 unnverve	0
-the tension *ratcheted up*	0
+the tension *ratcheted up*	1
 A once-of-century talent	0
 The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	0
 Pacioli's morally upright accouting bestowed a form of religious benediction on the previously disparaged profession	0
-These ideologies are at best naive, at worst they serve as disingenuous window-dressing for crude nationalism and bigotry.	0
+These ideologies are at best naive, at worst they serve as disingenuous window-dressing for crude nationalism and bigotry.	1
 There is *prominent* P.F.Chang sign on the 8th-floor entrance.	0
 a momentary lapse of reasoning	0
 This faith will never *catch on*	0
@@ -74,12 +72,21 @@ He lashed out at a cave diver.	0
 makeshift	0
 And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	0
 Hard problem in academic is a *euphemism* for impossible.  	0
-gibberish	0
+gibberish	1
 All we have from the Opposition is overblown rhetoric. 	0
 A dichotomy that will only *reinforce* the achievement gap that already exists in our nation.	0
 He totally snubbed us	0
-We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	1
 The investors will be asked to shoulder big investments and hefy losses for the time being.	0
+I cannot abide falling back to square one	0
+Let's just google, for the peace of mind	0
+In this conversation, we explore all the most interesting and exciting technology trends *at play* in the world today - and how those trends may *play out* for the investors.	0
+fanfare: media fanfare	0
+provocative	0
+cajole sb into doing	0
+To put things in context	0
+A emphatic refusal	1
+stigma	1
+We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	1
 Incorrigible	1
 reject swirling rumors of his impending departure	1
 primitve and slapdash	1
@@ -93,7 +100,6 @@ The path to enlargement is prosaic, humdrum and everyday.	1
 The unrivalled ability	1
 I will not be deterred	1
 To do that, you are going to *carry out* 4 steps	1
-The seat I offered to a old woman was snatched by a burly(husky) young woman	2
 To do that, you are going to carry out 4 steps	1
 hammer out: to create a solution or agreement to a problem	1
 *Retract* what I have said	1
@@ -106,7 +112,7 @@ whether through an involuntary blush or the artifice of a false smile	1
 The arduous working condition	1
 My own values made me unwilling to grovel and tell lies, despite my personal stake	1
 Progress comes not only in great *leaps* but also from hundreds of small steps	1
-He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	1
+He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	2
 rising from obscruity to prominence	1
 be laser focues on	1
 They fueled an ineffaceable admiration for the eclectic and eccentric statesman	1
@@ -117,7 +123,7 @@ We recounted for two-hours the litany of second dealing	1
 pillage = plunder vs squander (squander the opportunity)	1
 imperturbable (Pronun)	1
 The course team is currently putting the finishing touches on the course 4.	1
-bid adieu to	1
+bid adieu to	2
 Let's get a couple of movies under our belt first	1
 He was chastened by his team's defeat	1
 If one looks hard and honestly, even the supposed paragon of user-generated content - Wikipedia itself - is far from pure bottom-up.	1
@@ -174,6 +180,7 @@ Given how broad your *purview* is and how expansive your role is, I imagine you 
 The economy bears all the classic hallmarks of complexity.	1
 Jack Ma has *ruffled feathers* with his high profile.	1
 beef up	1
+The seat I offered to a old woman was snatched by a burly(husky) young woman	2
 get her hopes up	2
 vehemently reject	2
 angst	2
@@ -248,4 +255,3 @@ It wasn't just low priorities, it wasn't even on the radar.	4
 adulation	4
 I will answer them *to the best of my knowledge*	4
 To circumvent the lack of data	4
-I cannot abide falling back to square one	0
