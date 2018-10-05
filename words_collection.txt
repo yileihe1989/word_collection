@@ -5,32 +5,25 @@ Everybody_looking out for number one. Survival of the fittest. Tooth and claw. E
 virtuoso	0
 Even if it is a top of the funnel problem, it is unreasonable to ask companies to wait for designers to surface in due course and not an option for many startups with limited runway.	0
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny	0
-Tour de force	0
+Tour de force	1
 persist against all odds	0
-Because it looked backward, not forward. It tethered the place to the status quo.	1
 In my experience, when they go out our research trips, they always come back changed.	0
 Idiom: pull their punches	0
 Their combined model was more complex - and more limiting - than either of the models would have been on its own.	0
 disparate views	0
 The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see.	0
 I would let him go right off the bat.	0
-vagary of weather	1
 perpetrate	0
-cachet	1
-a abiding hobby/passion | I cannot abide to go back to square one	1
 These problmes must be dealt with anew | Think anew	0
 intransigence	0
 incipient	0
 Such grandiose forecast kindles anxity as well as hope	0
-decorum = etiquette	1
 We are endowed by the creator with certain unalienable rights.	0
 Yet the system is not impervious to fraud.	0
 unnverve	0
-the tension *ratcheted up*	1
 A once-of-century talent	0
 The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	0
 Pacioli's morally upright accouting bestowed a form of religious benediction on the previously disparaged profession	0
-These ideologies are at best naive, at worst they serve as disingenuous window-dressing for crude nationalism and bigotry.	1
 There is *prominent* P.F.Chang sign on the 8th-floor entrance.	0
 a momentary lapse of reasoning	0
 This faith will never *catch on*	0
@@ -42,7 +35,7 @@ We don't have to *put up with* this.	0
 modulate your expectation	0
 be in over one's head (be involved in something that is beyond my capacity)	0
 She is young, she is brilliant, she is going places	0
-I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value.	0
+I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value.	1
 *bear more resemblance* to a start-up	0
 sleep a wink	0
 This sounds bulletproof in theory, but in practice the bullet gets through all to easily	0
@@ -72,9 +65,8 @@ He lashed out at a cave diver.	0
 makeshift	0
 And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	0
 Hard problem in academic is a *euphemism* for impossible.  	0
-gibberish	1
 All we have from the Opposition is overblown rhetoric. 	0
-A dichotomy that will only *reinforce* the achievement gap that already exists in our nation.	0
+A dichotomy that will only *reinforce* the achievement gap that already exists in our nation.	1
 He totally snubbed us	0
 The investors will be asked to shoulder big investments and hefy losses for the time being.	0
 I cannot abide falling back to square one	0
@@ -83,7 +75,22 @@ In this conversation, we explore all the most interesting and exciting technolog
 fanfare: media fanfare	0
 provocative	0
 cajole sb into doing	0
-To put things in context	0
+To put things in context	1
+It was him do all the heavy-lifting	0
+frame the issue out of context	0
+The country will emerge scratched and bruised but largely intact, proudly declaring that the ordeal was a brilliant shortcut, then fumbling for a map and compass	0
+But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	0
+Mendy epitomizes Pep's style of coach.	0
+This is a kind of injury that will sideline players for 6 to 7 months. 	0
+But if Dodgson’s solution was cumbersome, his critique of the problem was *nevertheless* spot on.	0
+Because it looked backward, not forward. It tethered the place to the status quo.	1
+vagary of weather	1
+cachet	2
+a abiding hobby/passion | I cannot abide to go back to square one	2
+decorum = etiquette	1
+the tension *ratcheted up*	1
+These ideologies are at best naive, at worst they serve as disingenuous window-dressing for crude nationalism and bigotry.	1
+gibberish	1
 A emphatic refusal	1
 stigma	1
 We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	1
@@ -97,7 +104,7 @@ what you ask is just shy of treason	1
 seductive	1
 There is no room for equivocation here	1
 The path to enlargement is prosaic, humdrum and everyday.	1
-The unrivalled ability	1
+The unrivalled ability	2
 I will not be deterred	1
 To do that, you are going to *carry out* 4 steps	1
 To do that, you are going to carry out 4 steps	1
@@ -107,12 +114,11 @@ We are impressed with small feats accomplished by computers alone, but we ignore
 Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse	1
 upkeep	1
 antipathy	1
-My concentration was so complete that I lost the awareness of my surrounding.	1
+My concentration was so complete that I lost the awareness of my surrounding.	2
 whether through an involuntary blush or the artifice of a false smile	1
 The arduous working condition	1
 My own values made me unwilling to grovel and tell lies, despite my personal stake	1
 Progress comes not only in great *leaps* but also from hundreds of small steps	1
-He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	2
 rising from obscruity to prominence	1
 be laser focues on	1
 They fueled an ineffaceable admiration for the eclectic and eccentric statesman	1
@@ -123,7 +129,6 @@ We recounted for two-hours the litany of second dealing	1
 pillage = plunder vs squander (squander the opportunity)	1
 imperturbable (Pronun)	1
 The course team is currently putting the finishing touches on the course 4.	1
-bid adieu to	2
 Let's get a couple of movies under our belt first	1
 He was chastened by his team's defeat	1
 If one looks hard and honestly, even the supposed paragon of user-generated content - Wikipedia itself - is far from pure bottom-up.	1
@@ -164,14 +169,14 @@ paragon/paradigm	1
 finesse	1
 aboveboard	1
 carve up markets	1
-You let your personal vendettas turn your focus away from what is best for the firm.	1
+You let your personal vendettas turn your focus away from what is best for the firm.	2
 quintessential	1
 They are unconcerned with us. (They are of no concern to us.)	1
 palatable	1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases)	1
 spot-on comment	1
 walkover = easy vicotry	1
-The angry audience walked out en masse	1
+The angry audience walked out en masse	2
 avaricious = greedy	1
 bombastic speech: bombastic = high-sounding but with little meaning 	1
 lopsided = crooked	1
@@ -180,6 +185,8 @@ Given how broad your *purview* is and how expansive your role is, I imagine you 
 The economy bears all the classic hallmarks of complexity.	1
 Jack Ma has *ruffled feathers* with his high profile.	1
 beef up	1
+He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	2
+bid adieu to	2
 The seat I offered to a old woman was snatched by a burly(husky) young woman	2
 get her hopes up	2
 vehemently reject	2
@@ -208,12 +215,12 @@ affable	2
 marketing gimmick	2
 be of immediate practical use	2
 vicarious 	2
-defy everybody's expectaitons	2
+defy everybody's expectaitons	3
 I took the opportunity to *exert some leverage*	2
 You have got a lot of edge going for you	2
 I have to give this speech three times before it finally *sunk in*.	2
 He is not supposed to *register* emotion.	2
-We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.	2
+We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.	3
 But some didn't understand the struggle and risk that success had entailed	2
 plethora of data | paucity (deficiency) of data	2
 immutable law/I learned one immutable truth	2
