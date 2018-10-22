@@ -2,9 +2,9 @@ import random
 import textwrap
 
 
-def word_preprocess(item):
+def word_preprocess(item,line_index):
     if len(item) <= 1:
-        raise Exception("Invalid word item: {}".format(item))
+        raise Exception("Invalid word item: {} @ line {}".format(item,line_index))
     item_clean = [i for i in item if i != ""] if len(item) > 2 else item
     if len(item_clean) > 2:
         raise Exception("Invalid word item: {}".format(item_clean))
@@ -16,9 +16,9 @@ def word_preprocess(item):
 def read_data(path):
     freader = open(path, "r")
     words_collection = list()
-    for line in freader:
+    for line_index,line in enumerate(freader):
         item = line.strip().split("\t")
-        item_clean = word_preprocess(item)
+        item_clean = word_preprocess(item,line_index)
         words_collection.append(item_clean)
 
     freader.close()
