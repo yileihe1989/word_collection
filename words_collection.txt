@@ -1,7 +1,9 @@
-inveterate 0
+
+In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	0
+As I watched, my memory flashed over his whole journey.	0
+inveterate	0
 bread and butter: main source of income	0
-He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other.	
-0
+He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	0
 the disruption was transitory	0
 I think he encapsulated two of the characteristics for a succesful crime lord.	0
 in a rut	0
@@ -15,7 +17,6 @@ Everybody_looking out for number one. Survival of the fittest. Tooth and claw. E
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny	0
 persist against all odds	0
 In my experience, when they go out our research trips, they always come back changed.	0
-Idiom: pull their punches	1
 Their combined model was more complex - and more limiting - than either of the models would have been on its own.	0
 disparate views	0
 I would let him go *right off the bat*.	0
@@ -23,8 +24,8 @@ perpetrate	0
 These problmes must be dealt with anew | Think anew	0
 intransigence	0
 incipient	0
-Such grandiose forecast kindles anxity as well as hope	0
-We are endowed by the creator with certain unalienable rights.	0
+Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	1
+We are endowed(pron) by the creator with certain unalienable rights.	1
 unnverve	0
 The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	0
 There is *prominent* P.F.Chang sign on the 8th-floor entrance.	0
@@ -32,14 +33,13 @@ a momentary lapse of reasoning	0
 This faith will never *catch on*	0
 Joining the club can help me keep the internecine skirmishes in perspective. / You can put your worries in perspectives when you realize how many people in the world are worse off than you. 	0
 The engineering team is ever abuzz about the future of machine learning; as such the research paper has made its rounds on Hacker News and Reddit.	0
-a handsome profit	0
-We had a late changes to our dimensions, so we got different versions floating around.	0
+a handsome profit	1
+We had a late changes to our dimensions, so we got different versions floating around.	1
 I am so sorry if I overstepped my bounds	0
 We don't have to *put up with* this.	0
 modulate your expectation	0
 She is young, she is brilliant, she is going places	0
 *bear more resemblance* to a start-up	0
-This sounds bulletproof in theory, but in practice the bullet gets through all to easily	1
 prodigious	0
 The team was on a roll. (experiencing a particularly successful period, without any setback or low points)	0
 eschew 	0
@@ -52,7 +52,6 @@ stop icing me out	0
 chalk up such "lamentation" to little more than the sting of defeat.	0
 perennial	0
 This is a kind of injury that will sideline players for 6 to 7 months.	0
-freewheeling	1
 tempt the fate(take extreme risk)	0
 cocooned in their groupthink, experts do not always know their best	0
 exasperate	0
@@ -62,10 +61,8 @@ And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	0
 Hard problem in academic is a *euphemism* for impossible.  	0
 All we have from the Opposition is overblown rhetoric. 	0
 He totally snubbed us	0
-The investors will be asked to shoulder big investments and hefy losses for the time being.	1
 Let's just google, for the peace of mind	0
 In this conversation, we explore all the most interesting and exciting technology trends *at play* in the world today - and how those trends may *play out* for the investors.	0
-fanfare: media fanfare	1
 provocative	0
 cajole sb into doing	0
 It was him do all the heavy-lifting	0
@@ -82,7 +79,7 @@ If you are reusing the same graph over and over, then this potentially costly up
 The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder	0
 The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it.	0
 The syndicate of crime is not set up in a haphazrd fashion.	0
-The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984.	0
+The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984.	1
 Commodities, which were considered obscure stepchild of the Wall Street brokerage industry.	0
 We had a blast together.	0
 That is the most abysmal date I ever had.	0
@@ -93,28 +90,30 @@ Feel free to jump in, we are spitballing here.	0
 intractable:out of control, hard to manage.	0
 vying for   	0
 Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	0
-arouse: 1) The exaggerated hopes they have aroused will *evaporate* quickly. 2) Since most types of situations arose repeatedly with slight variations, these principles were continually refined. 	1
 make sure the technology mesh with human world.	0
+The number is immense.	0
+Idiom: pull their punches	1
+This sounds bulletproof in theory, but in practice the bullet gets through all to easily	1
+freewheeling	1
+The investors will be asked to shoulder big investments and hefy losses for the time being.	1
+fanfare: media fanfare	2
+arouse: 1) The exaggerated hopes they have aroused will *evaporate* quickly. 2) Since most types of situations arose repeatedly with slight variations, these principles were continually refined. 	1
 hotshot programmers	1
 detest - antipathy vs dread	1
-Nontheless, something has to be done to *reckon with* the sheer complexity of the problems.	1
+Nontheless, something has to be done to *reckon with* the sheer complexity of the problems.	2
 be in over one's head (be involved in something that is beyond my capacity)	1
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly.	1
-SBSE is now starting to *chieve significant uptake* in the industrial and practitioner sectors	2
-The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see.	2
 Yet the system is not impervious to fraud.	1
 A once-of-century talent	1
-deliberation: after much deliberation, the meeting reaches a compromise	2
 Rather than asking students to stockpile knowledge, it empowers them to pull what they need from the network as they need it.	1
 I cannot abide falling back to square one	1
 While making money was good, having meaning work and relationship was far beter. To me, meaningful work is being on a mission I become engrossed in.	1
 virtuoso	1
-Even if it is a top of the funnel problem, it is unreasonable to ask companies to wait for designers to surface in due course and not an option for many startups with limited runway.	2
 Pacioli's morally upright accouting bestowed a form of religious benediction on the previously disparaged profession	1
 I am trying to stay up on thing, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, he government is extra vigilant. 	1
 sleep a wink	1
 The Internet has become so overrun with nefarious actors.	1
-It is a conscious decision on my part.	1
+It is a conscious decision on my part.	2
 ornate	1
 Tour de force	1
 I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value.	1
@@ -141,7 +140,7 @@ I will not be deterred	1
 To do that, you are going to *carry out* 4 steps	1
 To do that, you are going to carry out 4 steps	1
 hammer out: to create a solution or agreement to a problem	1
-*Retract* what I have said	1
+*Retract* what I have said	2
 Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse	1
 whether through an involuntary blush or the artifice of a false smile	1
 The arduous working condition	1
@@ -149,8 +148,7 @@ My own values made me unwilling to grovel and tell lies, despite my personal sta
 Progress comes not only in great *leaps* but also from hundreds of small steps	1
 rising from obscruity to prominence	1
 be laser focues on	1
-They fueled an ineffaceable admiration for the eclectic and eccentric statesman	1
-arcane	2
+They fueled an ineffaceable admiration for the eclectic and eccentric statesman	2
 They *longed* for a moment of respite(pron) | reprise(pron)	1
 We recounted for two-hours the litany of second dealing	1
 pillage = plunder vs squander (squander the opportunity)	1
@@ -160,14 +158,12 @@ Let's get a couple of movies under our belt first	1
 If one looks hard and honestly, even the supposed paragon of user-generated content - Wikipedia itself - is far from pure bottom-up.	1
 A big bankroll is required to ride out big losses	1
 be stymied by 	1
-It is why we went through incredilbe lengths to find talents.	2
 idiom: have the last word in	1
 The tag line for the ad read	1
 He was filled with apprehension	1
 Its profit margin would make you salivate	1
 It is a well-thought-out idea	1
 whereas the cost of his car is less evident and can be *put out of mind*	1
-tried-and-true	2
 The *proliferation* of small tables also mean that tracking data relations need more *diligence*.	1
 Achieve the same level of insight is *elusive*. | When viewed from a vantage point, a full picture of the dynamics of any group is *elusive*.	1
 We wanted the best idea to be pushed forward, not languish.	1
@@ -178,7 +174,6 @@ toss our far-out ideas	1
 stigma	1
 preeminence | eminence	1
 *As much as* I enjoyed Sapiens, there was plenty of disagree with in the book	1
-countenace	2
 The time they have saved by not *gnashing their teeth about* whether they are on the right course has*comesin handy* when they *hit a dead end* and need to reboot.	1
 manifestation 	1
 Inadvertently (prou)	1
@@ -199,10 +194,18 @@ avaricious = greedy	1
 bombastic speech: bombastic = high-sounding but with little meaning 	1
 lopsided = crooked	1
 Old theories were debunked	1
-Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.	2
 The economy bears all the classic hallmarks of complexity.	1
 Jack Ma has *ruffled feathers* with his high profile.	1
 beef up	1
+SBSE is now starting to *chieve significant uptake* in the industrial and practitioner sectors	2
+The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see.	2
+deliberation: after much deliberation, the meeting reaches a compromise	2
+Even if it is a top of the funnel problem, it is unreasonable to ask companies to wait for designers to surface in due course and not an option for many startups with limited runway.	2
+arcane	2
+It is why we went through incredilbe lengths to find talents.	2
+tried-and-true	2
+countenace	2
+Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.	2
 winnowing process	2
 vagary of weather	2
 Idiom: jibe with	2
@@ -295,5 +298,9 @@ But to me, the key is not to let this trust, our faith, *lull us into* the *abdi
 adulation	4
 I will answer them *to the best of my knowledge*	4
 To circumvent the lack of data	4
-The number is immense.	0
-
+hem and haw	0
+Information in this guide is not incorrect, just antiquated; advice in this guide is as good as ever.	0
+the mobile pay has gone mainstream in Korea.	0
+How do you sleep at night when you are knowhing these risk is imminent.	0
+How can clothing and nutrition become so deficient in the land of opportunity.	0
+kooky idea	0
