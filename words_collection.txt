@@ -1,8 +1,6 @@
 In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	0
-As I watched, my memory flashed over his whole journey.	1
 inveterate	0
 He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	0
-the disruption was transitory	0
 I think he encapsulated two of the characteristics for a succesful crime lord.	0
 in a rut	0
 proverbial wisdom	0
@@ -29,12 +27,8 @@ The engineering team is ever abuzz about the future of machine learning; as such
 I am so sorry if I overstepped my bounds	0
 We don't have to *put up with* this.	0
 She is young, she is brilliant, she is going places	0
-*bear more resemblance* to a start-up	0
-prodigious	0
-The team was on a roll. (experiencing a particularly successful period, without any setback or low points)	0
 Robin wants to get a handle on it first. 	0
 branch out	0
-know the equipment inside and out	1
 The Ache society was very complex. We should *beware of* demonizing or idealising it on the basis of *a superficial acquaintance*.	0
 deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice	0
 stop icing me out	0
@@ -45,11 +39,9 @@ tempt the fate(take extreme risk)	0
 exasperate	0
 He lashed out at a cave diver.	0
 makeshift	0
-And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	1
 Hard problem in academic is a *euphemism* for impossible.  	0
 All we have from the Opposition is overblown rhetoric. 	0
 He totally snubbed us	0
-Let's just google, for the peace of mind	0
 In this conversation, we explore all the most interesting and exciting technology trends *at play* in the world today - and how those trends may *play out* for the investors.	0
 provocative	0
 cajole sb into doing	0
@@ -62,7 +54,6 @@ This is a kind of injury that will sideline players for 6 to 7 months. 	0
 But if Dodgson’s solution was cumbersome, his critique of the problem was *nevertheless* spot on.	0
 In the early years the psychology of the 1960s US was aspirational and inspirational - to achieve great and noble goods.	0
 Something *worked to* our mutual advantage.(Ray Dalio P24)	0
-If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised sa the same graph is rerun over and over.	1
 The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder	0
 The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it.	0
 The syndicate of crime is not set up in a haphazrd fashion.	0
@@ -75,7 +66,6 @@ discern 	0
 Feel free to jump in, we are spitballing here.	0
 intractable:out of control, hard to manage.	0
 vying for   	0
-Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	1
 make sure the technology mesh with human world.	0
 The number is immense.	0
 hem and haw	0
@@ -93,6 +83,20 @@ AdWeight is a *longstanding* effor between ads ranking and CEA team.	0
 distinctive personality	0
 eloquent: an eloquent speech => fluent or persuasive in speaking or writing 	0
 take a lot of reasoning to persuade him 	0
+The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology	0
+I also learned that judging people before seeing thing through their eyes really stands in the way of understanding their circumstances and that isn's smart. 	0
+You shouldn't sell Harvard short.	0
+the disruption was transitory	1
+*bear more resemblance* to a start-up	1
+prodigious	1
+The team was on a roll. (experiencing a particularly successful period, without any setback or low points)	1
+Let's just google, for the peace of mind	1
+Our legal system is complicated, and sometimes it can feel capricious.	1
+As I watched, my memory flashed over his whole journey.	1
+know the equipment inside and out	1
+And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	1
+If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised sa the same graph is rerun over and over.	1
+Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	1
 Those reading the runes in Beijing say the leadership has been caught badly off the guard	1
 Avinash Kaushik, digital marketing evangelist at Google, warns that trying to get website users to see as many ads as possible naturally *devolves* into trying to *cram* sites with ads. 	1
 modulate your expectation	1
@@ -101,7 +105,7 @@ bread and butter: main source of income	1
 cocooned in their groupthink, experts do not always know their best	1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders.	1
 Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	1
-We are endowed(pron) by the creator with certain unalienable rights.	1
+We are endowed(pron) by the creator with certain unalienable rights.	2
 a handsome profit	1
 The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984.	1
 Idiom: pull their punches	1
@@ -120,7 +124,6 @@ virtuoso	1
 Pacioli's morally upright accouting bestowed a form of religious benediction on the previously disparaged profession	1
 I am trying to stay up on thing, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, he government is extra vigilant. 	1
 sleep a wink	1
-The Internet has become so overrun with nefarious actors.	1
 ornate	1
 I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value.	1
 A dichotomy that will only *reinforce* the achievement gap that already exists in our nation.	1
@@ -131,15 +134,13 @@ the tension *ratcheted up*	1
 gibberish	1
 A emphatic refusal	1
 stigma	1
-We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	1
-Incorrigible	1
 reject swirling rumors of his impending departure	1
 primitve and slapdash	1
 The firm's problem starting to take a toll	1
 This is getting out of hand	1
 imminent vs emminent	1
 seductive	1
-The path to enlargement is prosaic, humdrum and everyday.	1
+The path to enlargement is prosaic, humdrum and everyday.	2
 I will not be deterred	1
 To do that, you are going to *carry out* 4 steps	1
 To do that, you are going to carry out 4 steps	1
@@ -183,7 +184,6 @@ squander the opportunity	1
 This does not mean, however, that the empire leave nothing of value in their wake.	1
 paragon/paradigm	1
 aboveboard	1
-carve up markets	2
 quintessential	1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases)	1
 spot-on comment	1
@@ -192,6 +192,10 @@ lopsided = crooked	1
 Old theories were debunked	1
 The economy bears all the classic hallmarks of complexity.	1
 Jack Ma has *ruffled feathers* with his high profile.	1
+The Internet has become so overrun with nefarious actors.	2
+We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	2
+Incorrigible	2
+carve up markets	2
 incipient	2
 Tour de force	2
 There is no room for equivocation here	2
