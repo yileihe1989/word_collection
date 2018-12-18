@@ -2,10 +2,10 @@ In the short run, *gazing at all* this perfection (ads, billboards) gives us *a 
 inveterate	0
 He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	0
 I think he encapsulated two of the characteristics for a succesful crime lord.	0
-in a rut	0
+in a rut	1
 proverbial wisdom	0
 Insatiable curiosity	0
-You should take it with a grain of salt.	0
+You should take it with a grain of salt.	1
 The arduous working condition	0
 Everybody_looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way._	0
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny	0
@@ -18,7 +18,7 @@ perpetrate	0
 These problmes must be dealt with anew | Think anew	0
 intransigence	0
 unnverve	0
-The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	0
+The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	1
 There is *prominent* P.F.Chang sign on the 8th-floor entrance.	0
 a momentary lapse of reasoning	0
 This faith will never *catch on*	0
@@ -28,20 +28,19 @@ I am so sorry if I overstepped my bounds	0
 We don't have to *put up with* this.	0
 She is young, she is brilliant, she is going places	0
 Robin wants to get a handle on it first. 	0
-branch out	0
+branch out	1
 The Ache society was very complex. We should *beware of* demonizing or idealising it on the basis of *a superficial acquaintance*.	0
 deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice	0
 stop icing me out	0
 chalk up such "lamentation" to little more than the sting of defeat.	0
 perennial	0
-This is a kind of injury that will sideline players for 6 to 7 months.	0
 tempt the fate(take extreme risk)	0
 exasperate	0
 He lashed out at a cave diver.	0
 makeshift	0
 Hard problem in academic is a *euphemism* for impossible.  	0
 All we have from the Opposition is overblown rhetoric. 	0
-He totally snubbed us	0
+He totally snubbed us	1
 In this conversation, we explore all the most interesting and exciting technology trends *at play* in the world today - and how those trends may *play out* for the investors.	0
 provocative	0
 cajole sb into doing	0
@@ -50,13 +49,13 @@ frame the issue out of context	0
 The country will emerge scratched and bruised but largely intact, proudly declaring that the ordeal was a brilliant shortcut, then fumbling for a map and compass	0
 But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	0
 Mendy epitomizes Pep's style of coach.	0
-This is a kind of injury that will sideline players for 6 to 7 months. 	0
+This is a kind of injury that will sideline players for 6 to 7 months. 	1
 But if Dodgson’s solution was cumbersome, his critique of the problem was *nevertheless* spot on.	0
-In the early years the psychology of the 1960s US was aspirational and inspirational - to achieve great and noble goods.	0
+In the early years the psychology of the 1960s US was aspirational and inspirational - to achieve great and noble goods.	1
 Something *worked to* our mutual advantage.(Ray Dalio P24)	0
 The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder	0
 The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it.	0
-The syndicate of crime is not set up in a haphazrd fashion.	0
+The syndicate of crime is not set up in a haphazrd fashion.	1
 Commodities, which were considered obscure stepchild of the Wall Street brokerage industry.	0
 We had a blast together.	0
 That is the most abysmal date I ever had.	0
@@ -65,7 +64,7 @@ over my happened: the concept is way over my head 	0
 discern 	0
 Feel free to jump in, we are spitballing here.	0
 intractable:out of control, hard to manage.	0
-vying for   	0
+vying for   	1
 make sure the technology mesh with human world.	0
 The number is immense.	0
 hem and haw	0
@@ -80,12 +79,16 @@ These items will be *fleshed out in more detail* below	0
 For one, they offer a bound on the quality of the true solution.	0
 ineffable 	0
 AdWeight is a *longstanding* effor between ads ranking and CEA team.	0
-distinctive personality	0
+distinctive personality	1
 eloquent: an eloquent speech => fluent or persuasive in speaking or writing 	0
 take a lot of reasoning to persuade him 	0
 The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology	0
 I also learned that judging people before seeing thing through their eyes really stands in the way of understanding their circumstances and that isn's smart. 	0
 You shouldn't sell Harvard short.	0
+All great investors and investment have bad patches; losing faith in them at such times is as common a mistake as getting too enamored of them	0
+I took his advice to heart as I set out to improve Bridgewater's governance model 	0
+Brush him off	0
+The printing business has been Orville's idea from the start	0
 the disruption was transitory	1
 *bear more resemblance* to a start-up	1
 prodigious	1
@@ -105,22 +108,21 @@ bread and butter: main source of income	1
 cocooned in their groupthink, experts do not always know their best	1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders.	1
 Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	1
-We are endowed(pron) by the creator with certain unalienable rights.	2
 a handsome profit	1
 The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984.	1
 Idiom: pull their punches	1
 This sounds bulletproof in theory, but in practice the bullet gets through all to easily	1
-freewheeling	1
+freewheeling	2
 The investors will be asked to shoulder big investments and hefy losses for the time being.	1
 arouse: 1) The exaggerated hopes they have aroused will *evaporate* quickly. 2) Since most types of situations arose repeatedly with slight variations, these principles were continually refined. 	1
 hotshot programmers	1
 detest - antipathy vs dread	1
 be in over one's head (be involved in something that is beyond my capacity)	1
-When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly.	1
-Yet the system is not impervious to fraud.	1
+When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly.	2
+Yet the system is not impervious to fraud.	2
 Rather than asking students to stockpile knowledge, it empowers them to pull what they need from the network as they need it.	1
 I cannot abide falling back to square one	1
-virtuoso	1
+virtuoso	2
 Pacioli's morally upright accouting bestowed a form of religious benediction on the previously disparaged profession	1
 I am trying to stay up on thing, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, he government is extra vigilant. 	1
 sleep a wink	1
@@ -133,17 +135,15 @@ decorum = etiquette	1
 the tension *ratcheted up*	1
 gibberish	1
 A emphatic refusal	1
-stigma	1
 reject swirling rumors of his impending departure	1
 primitve and slapdash	1
 The firm's problem starting to take a toll	1
 This is getting out of hand	1
 imminent vs emminent	1
 seductive	1
-The path to enlargement is prosaic, humdrum and everyday.	2
 I will not be deterred	1
 To do that, you are going to *carry out* 4 steps	1
-To do that, you are going to carry out 4 steps	1
+To do that, you are going to carry out 4 steps	2
 hammer out: to create a solution or agreement to a problem	1
 Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse	1
 whether through an involuntary blush or the artifice of a false smile	1
@@ -173,7 +173,6 @@ Other times, I have imagined my feet on either side of one of those balanced boa
 You must define a *standalone* input layer.	1
 The culprit will be hard to *pin down*	1
 toss our far-out ideas	1
-stigma	1
 preeminence | eminence	1
 *As much as* I enjoyed Sapiens, there was plenty of disagree with in the book	1
 The time they have saved by not *gnashing their teeth about* whether they are on the right course has*comesin handy* when they *hit a dead end* and need to reboot.	1
@@ -192,6 +191,8 @@ lopsided = crooked	1
 Old theories were debunked	1
 The economy bears all the classic hallmarks of complexity.	1
 Jack Ma has *ruffled feathers* with his high profile.	1
+We are endowed(pron) by the creator with certain unalienable rights.	2
+The path to enlargement is prosaic, humdrum and everyday.	2
 The Internet has become so overrun with nefarious actors.	2
 We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	2
 Incorrigible	2
