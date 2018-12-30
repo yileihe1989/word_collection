@@ -1,18 +1,16 @@
-In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	0
-inveterate	0
-He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	0
-I think he encapsulated two of the characteristics for a succesful crime lord.	0
-in a rut	1
-proverbial wisdom	0
-Insatiable curiosity	0
-You should take it with a grain of salt.	1
-The arduous working condition	0
-Everybody_looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way._	0
-We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny	0
-persist against all odds	0
-In my experience, when they go out our research trips, they always come back changed.	0
-Their combined model was more complex - and more limiting - than either of the models would have been on its own.	0
-disparate views	0
+In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	--- 0
+inveterate	--- 0
+He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	--- 0
+I think he encapsulated two of the characteristics for a succesful crime lord.	--- 0
+in a rut	--- 1
+Insatiable curiosity --- 0
+You should take it with a grain of salt. --- 1
+The arduous working condition --- 0
+Everybody is looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way. --- 0
+We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny --- 0
+persist against all odds | beating these tough odds | the random events did not go our way	--- 0
+Their combined model was more complex - and more limiting - than either of the models would have been on its own. --- 0
+disparate views	--- 0
 I would let him go *right off the bat*.	0
 perpetrate	0
 These problmes must be dealt with anew | Think anew	0
@@ -260,7 +258,6 @@ Sow the seed for a digital age that will blossom a hindered years later.	2
 dissmulate	2
 egregious	2
 The meeting end with acrimony on both sides	2
-They strive to identify and buy only those businesses with a good chance to beating these tough odds	2
 I would preach the practical value of regular maintenance till I am hoarse and it would make not a dent in him	2
 Before I gave my talk at the meeting, I hadn't envisaged the clamor and the sortof publicity that would follow.	2
 Plans are deliberately indefinite, more to travel than to arrive anywhere	2
@@ -312,8 +309,12 @@ fallout from something	3
 Display your modeling *mettle* to the hiring team	3
 I am not endorsing change for change's sake. There are often good reasons to *hang on* to things that work.	3
 It is precisely because of	3
-the random events did not go our way	3
 But to me, the key is not to let this trust, our faith, *lull us into* the *abdication* of personal responsibility. | abdication: failure to fulfill responsibility or duty	3
 adulation	4
 I will answer them *to the best of my knowledge*	4
 To circumvent the lack of data	4
+We had to barge out way into things.	0
+There is nothing to *prompt* learning like pain and necessity, and this has given me plenty of both.	0
+To let an old man to master itimmediately is *a wishful thinking*.	0
+brows furrow	0
+Crack the nut=solve problem  0
