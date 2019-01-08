@@ -11,20 +11,19 @@ We are impressed with small feats accomplished by computers alone, but we ignore
 persist against all odds | beating these tough odds | the random events did not go our way	--- 0
 Their combined model was more complex - and more limiting - than either of the models would have been on its own. --- 0
 disparate views	--- 0
-I would let him go *right off the bat*.	0
-perpetrate	0
-These problmes must be dealt with anew | Think anew	0
-intransigence	0
-unnverve	0
-The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	1
-There is *prominent* P.F.Chang sign on the 8th-floor entrance.	0
-a momentary lapse of reasoning	0
-This faith will never *catch on*	0
-Joining the club can help me keep the internecine skirmishes in perspective. / You can put your worries in perspectives when you realize how many people in the world are worse off than you. 	0
-The engineering team is ever abuzz about the future of machine learning; as such the research paper has made its rounds on Hacker News and Reddit.	0
-I am so sorry if I overstepped my bounds	0
-We don't have to *put up with* this.	0
-She is young, she is brilliant, she is going places	0
+perpetrate	--- 0
+These problmes must be dealt with anew | Think anew	--- 0
+intransigence	--- 0
+unnerve	--- 0
+The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	--- 1
+There is *prominent* P.F.Chang sign on the 8th-floor entrance.	--- 0
+a momentary lapse of reasoning	--- 0
+This faith will never *catch on*	--- 0
+Joining the club can help me keep the internecine skirmishes in perspective. / You can put your worries in perspectives when you realize how many people in the world are worse off than you. --- 0
+The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. --- 0
+I am so sorry if I overstepped my bounds	--- 0
+We don't have to *put up with* this.	--- 0
+She is young, she is brilliant, she is *going places*	--- 0
 Robin wants to get a handle on it first. 	0
 branch out	1
 The Ache society was very complex. We should *beware of* demonizing or idealising it on the basis of *a superficial acquaintance*.	0

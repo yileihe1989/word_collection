@@ -17,7 +17,7 @@ def read_data(path):
     freader = open(path, "r")
     words_collection = list()
     for line_index,line in enumerate(freader):
-        item = line.strip().split("\t")
+        item = line.strip().split("---")
         item_clean = word_preprocess(item,line_index)
         words_collection.append(item_clean)
 
