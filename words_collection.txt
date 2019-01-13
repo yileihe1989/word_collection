@@ -24,9 +24,8 @@ The engineering team is ever *abuzz about* the future of machine learning; *as s
 I am so sorry if I overstepped my bounds	--- 0
 We don't have to *put up with* this.	--- 0
 She is young, she is brilliant, she is *going places*	--- 0
-Robin wants to get a handle on it first. 	0
-branch out	1
-The Ache society was very complex. We should *beware of* demonizing or idealising it on the basis of *a superficial acquaintance*.	0
+branch out --- 1
+The Ache society was very complex. We should *beware of* demonizing or idealising it on the basis of *a superficialacquaintance*. --- 0
 deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice	0
 stop icing me out	0
 chalk up such "lamentation" to little more than the sting of defeat.	0
