@@ -26,22 +26,19 @@ I am so sorry if I overstepped my bounds	--- 0
 We don't have to *put up with* this.	--- 0
 She is young, she is brilliant, she is *going places*	--- 0
 branch out --- 1
-The Ache society was very complex. We should *beware of* demonizing or idealising it on the basis of *a superficialacquaintance*. --- 0
-deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice	0
-stop icing me out	0
-chalk up such "lamentation" to little more than the sting of defeat.	0
-perennial	0
-tempt the fate(take extreme risk)	0
-exasperate	0
-He lashed out at a cave diver.	0
-makeshift	0
-Hard problem in academic is a *euphemism* for impossible.  	0
-All we have from the Opposition is overblown rhetoric. 	0
-He totally snubbed us	1
-In this conversation, we explore all the most interesting and exciting technology trends *at play* in the world today - and how those trends may *play out* for the investors.	0
-provocative	0
-cajole sb into doing	0
-It was him do all the heavy-lifting	0
+deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice --- 0
+stop icing me out --- 0
+chalk up such "lamentation" to *little more than* the sting of defeat.--- 0
+tempt the fate(take extreme risk) --- 0
+exasperate --- 0
+He lashed out at a cab diver. --- 0
+makeshift --- 0
+Hard problem in academic is a *euphemism* for impossible. --- 0
+All we have from the Opposition is overblown rhetoric. --- 0
+He totally snubbed us---1
+provocative --- 0
+cajole sb into doing --- 0
+It was him do all the heavy-lifting --- 0
 frame the issue out of context	0
 The country will emerge scratched and bruised but largely intact, proudly declaring that the ordeal was a brilliant shortcut, then fumbling for a map and compass	0
 But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	0
@@ -295,7 +292,6 @@ You cannot keep doing this, it is going to catch up with you.	3
 Eminent/eminence	3
 bliss out: to be in extreme happiness	3
 Thanks to big data, we can now find the needle in haystack with ncredible ease.	3
-I was given a couple of extra papers for contingencies.	3
 separate hype from reality	3
 I am absorbed in reading	3
 Rattle off	3
@@ -309,8 +305,6 @@ Display your modeling *mettle* to the hiring team	3
 I am not endorsing change for change's sake. There are often good reasons to *hang on* to things that work.	3
 It is precisely because of	3
 But to me, the key is not to let this trust, our faith, *lull us into* the *abdication* of personal responsibility. | abdication: failure to fulfill responsibility or duty	3
-adulation	4
-I will answer them *to the best of my knowledge*	4
 To circumvent the lack of data	4
 We had to barge out way into things.	0
 There is nothing to *prompt* learning like pain and necessity, and this has given me plenty of both.	0
