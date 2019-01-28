@@ -39,29 +39,23 @@ He totally snubbed us---1
 provocative --- 0
 cajole sb into doing --- 0
 It was him do all the heavy-lifting --- 0
-frame the issue out of context	0
-The country will emerge scratched and bruised but largely intact, proudly declaring that the ordeal was a brilliant shortcut, then fumbling for a map and compass	0
-But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	0
-Mendy epitomizes Pep's style of coach.	0
-This is a kind of injury that will sideline players for 6 to 7 months. 	1
-But if Dodgson’s solution was cumbersome, his critique of the problem was *nevertheless* spot on.	0
-In the early years the psychology of the 1960s US was aspirational and inspirational - to achieve great and noble goods.	1
-Something *worked to* our mutual advantage.(Ray Dalio P24)	0
-The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder	0
-The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it.	0
-The syndicate of crime is not set up in a haphazrd fashion.	1
-Commodities, which were considered obscure stepchild of the Wall Street brokerage industry.	0
-We had a blast together.	0
-That is the most abysmal date I ever had.	0
-In opposition to Zuckerberg, Instagram's Kevin Systrom and Mike Krieger somehow become deeply sympathetic characters in their struggles to protected their *beloved* products.	0
-over my happened: the concept is way over my head 	0
-discern 	0
-Feel free to jump in, we are spitballing here.	0
-intractable:out of control, hard to manage.	0
-vying for   	1
-make sure the technology mesh with human world.	0
-The number is immense.	0
-hem and haw	0
+frame the issue out of context --- 0
+But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	--- 0
+Mendy epitomizes Pep's style of coach.	--- 0
+Something *worked to* our mutual advantage.(Ray Dalio P24) --- 0
+The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder --- 0
+The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it. --- 0
+The syndicate of crime is not set up in a haphazrd fashion. --- 1
+Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. --- 0
+That is the most abysmal date I ever had. --- 0
+In opposition to Zuckerberg, Instagram's Kevin Systrom and Mike Krieger somehow become deeply sympathetic characters in their struggles to protect their *beloved* products.	0
+the concept is way over my head --- 0
+discern --- 0
+Feel free to jump in, we are spitballing here. --- 0
+intractable:out of control, hard to manage. --- 0
+make sure the technology mesh with human world.	--- 0
+The number is immense --- 0
+hem and haw --- 0
 Information in this guide is not incorrect, just antiquated; advice in this guide is as good as ever.	0
 the mobile pay has gone mainstream in Korea.	0
 How do you sleep at night when you are knowhing these risk is imminent.	0
@@ -226,7 +220,6 @@ what you ask is just shy of treason	2
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from complementary because the human contribution makes them less uncanny	2
 untenable	2
 He was chastened by his team's defeat	2
-In lieu of	2
 upkeep	2
 Before Ed Thorp, mathematician of gambling has their love of chance largely unrequited.	2
 He is discerning and rigorous in this analysis of each pieces|discern	2
@@ -236,19 +229,14 @@ My concentration was so complete that I lost the awareness of my surrounding.	2
 You let your personal vendettas turn your focus away from what is best for the firm.	2
 The angry audience walked out en masse	2
 He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	2
-bid adieu to	2
-The seat I offered to a old woman was snatched by a burly(husky) young woman	2
 get her hopes up	2
 vehemently reject	2
 angst	2
-there are so many places crying out a better way	2
 I won't budge on that. 	2
-Get under my skin	2
 dread	2
 Bottom out	2
 engender = beget: cause or give rise to	2
 we can now find the needle in haystack with incredible ease	2
-graze by	2
 Never raise your flag for a asinine [proun] cause like slavery	2
 Sow the seed for a digital age that will blossom a hindered years later.	2
 dissmulate	2
@@ -272,9 +260,6 @@ plethora of data | paucity (deficiency) of data	2
 immutable law/I learned one immutable truth	2
 We still have misgiving about the way the campaign is run	2
 We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.	2
-contrived	2
-consummater performance	2
-Toy Story had required every ounce of our tenacity, artistry, technical wizardry and endurance. The hundred or so men and women who produced it had weathered countless ups and downs as well as the ever-present,hair-raising knowledge that our survival depend on this 80-mins experiment.	2
 The club has been under a great deal of unfair scrutiny lately	2
 recourse to	2
 antipathy	3
