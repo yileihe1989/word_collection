@@ -68,13 +68,12 @@ ineffable --- 0
 distinctive personality	 --- 1
 eloquent: an eloquent speech => fluent or persuasive in speaking or writing --- 0
 take a lot of reasoning to persuade him	 --- 0
-The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology	0
-I also learned that judging people before seeing thing through their eyes really stands in the way of understanding their circumstances and that isn's smart. 	0
-You shouldn't sell Harvard short.	0
-All great investors and investment have bad patches; losing faith in them at such times is as common a mistake as getting too enamored of them	0
-I took his advice to heart as I set out to improve Bridgewater's governance model 	0
-Brush him off	0
-The printing business has been Orville's idea from the start	0
+The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology --- 0
+I also learned that judging people before seeing thing through their eyes really stands in the way of understanding their circumstances and that isn's smart.--- 0
+You shouldn't sell Harvard short.--- 0
+All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	--- 0
+I took his advice to heart as I set out to improve Bridgewater's governance model --- 0
+The printing business has been Orville's idea from the start --- 0
 the disruption was transitory	1
 *bear more resemblance* to a start-up	1
 prodigious	1
