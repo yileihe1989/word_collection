@@ -74,37 +74,35 @@ You shouldn't sell Harvard short.--- 0
 All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	--- 0
 I took his advice to heart as I set out to improve Bridgewater's governance model --- 0
 The printing business has been Orville's idea from the start --- 0
-the disruption was transitory	1
-*bear more resemblance* to a start-up	1
-prodigious	1
-The team was on a roll. (experiencing a particularly successful period, without any setback or low points)	1
-Let's just google, for the peace of mind	1
-Our legal system is complicated, and sometimes it can feel capricious.	1
-As I watched, my memory flashed over his whole journey.	1
-know the equipment inside and out	1
-And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	1
-If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised sa the same graph is rerun over and over.	1
-Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	1
-Those reading the runes in Beijing say the leadership has been caught badly off the guard	1
-Avinash Kaushik, digital marketing evangelist at Google, warns that trying to get website users to see as many ads as possible naturally *devolves* into trying to *cram* sites with ads. 	1
-modulate your expectation	1
-eschew 	1
-bread and butter: main source of income	1
-cocooned in their groupthink, experts do not always know their best	1
-With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders.	1
-Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	1
-a handsome profit	1
-The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984.	1
-Idiom: pull their punches	1
-This sounds bulletproof in theory, but in practice the bullet gets through all to easily	1
-freewheeling	2
-The investors will be asked to shoulder big investments and hefy losses for the time being.	1
-arouse: 1) The exaggerated hopes they have aroused will *evaporate* quickly. 2) Since most types of situations arose repeatedly with slight variations, these principles were continually refined. 	1
-hotshot programmers	1
-detest - antipathy vs dread	1
-be in over one's head (be involved in something that is beyond my capacity)	1
-When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly.	2
-Yet the system is not impervious to fraud.	2
+*bear more resemblance* to a start-up --- 1
+prodigious --- 1
+The team was on a roll. (experiencing a particularly successful period, without any setback or low points) --- 1
+Let's just google, for the peace of mind --- 1
+Our legal system is complicated, and sometimes it can feel capricious. --- 1
+As I watched, my memory flashed over his whole journey. --- 1
+know the equipment inside and out	--- 1
+And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	---- 1
+If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised as the same graph is rerun over and over.	--- 1
+Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	--- 1
+Avinash Kaushik, digital marketing evangelist at Google, warns that trying to get website users to see as many ads as possible naturally *devolves* into trying to *cram* sites with ads. --- 1
+modulate your expectation --- 1
+eschew 	--- 1
+idiom: bread and butter: main source of income	--- 1
+*cocooned* in their groupthink, experts do not always know their best	--- 1
+With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. --- 1
+Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	--- 1
+a handsome profit	--- 1
+The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984. --- 1
+Idiom: pull their punches --- 1
+This *sounds bulletproof* in theory, but in practice the bullet gets through all to easily --- 1
+freewheeling	---- 2
+The investors will be asked to shoulder big investments and hefy losses for the time being.	--- 1
+The exaggerated hopes they have aroused will *evaporate* quickly. --- 1
+hotshot programmers --- 1
+detest - antipathy vs dread --- 1
+be in over one's head (be involved in something that is beyond my capacity) --- 1
+When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. --- 2
+Yet the system is not impervious to fraud. --- 2
 Rather than asking students to stockpile knowledge, it empowers them to pull what they need from the network as they need it.	1
 I cannot abide falling back to square one	1
 virtuoso	2
@@ -208,7 +206,6 @@ Even if it is a top of the funnel problem, it is unreasonable to ask companies t
 arcane	2
 It is why we went through incredilbe lengths to find talents.	2
 tried-and-true	2
-countenace	2
 Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.	2
 winnowing process	2
 vagary of weather	2
@@ -226,8 +223,6 @@ My concentration was so complete that I lost the awareness of my surrounding.	2
 You let your personal vendettas turn your focus away from what is best for the firm.	2
 The angry audience walked out en masse	2
 He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	2
-get her hopes up	2
-vehemently reject	2
 angst	2
 I won't budge on that. 	2
 dread	2
@@ -259,9 +254,7 @@ We still have misgiving about the way the campaign is run	2
 We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.	2
 The club has been under a great deal of unfair scrutiny lately	2
 recourse to	2
-antipathy	3
 The unrivalled ability	3
-prevail on him	3
 defy everybody's expectaitons	3
 We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.	3
 Work up to your capability	3
@@ -272,8 +265,6 @@ Points of view, tradition, and conventional wisdom that *looked to be* as solid 
 The chance for that is bleak	3
 You cannot keep doing this, it is going to catch up with you.	3
 Eminent/eminence	3
-bliss out: to be in extreme happiness	3
-Thanks to big data, we can now find the needle in haystack with ncredible ease.	3
 separate hype from reality	3
 I am absorbed in reading	3
 Rattle off	3
@@ -292,4 +283,4 @@ We had to barge out way into things.	0
 There is nothing to *prompt* learning like pain and necessity, and this has given me plenty of both.	0
 To let an old man to master itimmediately is *a wishful thinking*.	0
 brows furrow	0
-Crack the nut=solve problem  0
+Crack the nut=solve problem --- 0
