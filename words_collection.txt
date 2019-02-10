@@ -103,19 +103,15 @@ detest - antipathy vs dread --- 1
 be in over one's head (be involved in something that is beyond my capacity) --- 1
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. --- 2
 Yet the system is not impervious to fraud. --- 2
-Rather than asking students to stockpile knowledge, it empowers them to pull what they need from the network as they need it.	1
-I cannot abide falling back to square one	1
-virtuoso	2
-Pacioli's morally upright accouting bestowed a form of religious benediction on the previously disparaged profession	1
-I am trying to stay up on thing, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, he government is extra vigilant. 	1
-sleep a wink	1
-ornate	1
-I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value.	1
-A dichotomy that will only *reinforce* the achievement gap that already exists in our nation.	1
-To put things in context	1
-Because it looked backward, not forward. It tethered the place to the status quo.	1
-decorum = etiquette	1
-the tension *ratcheted up*	1
+I cannot abide falling back to *square one* ---	1
+I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. --- 1
+sleep a wink --- 1
+ornate --- 1
+I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value. --- 1
+A *dichotomy* that will only *reinforce* the achievement gap that already exists in our nation. --- 1
+To put things in context --- 1
+decorum = etiquette	--- 1
+the tension *ratcheted up*	--- 1
 gibberish	1
 A emphatic refusal	1
 reject swirling rumors of his impending departure	1
