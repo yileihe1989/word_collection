@@ -112,17 +112,13 @@ A *dichotomy* that will only *reinforce* the achievement gap that already exists
 To put things in context --- 1
 decorum = etiquette	--- 1
 the tension *ratcheted up*	--- 1
-gibberish	1
-A emphatic refusal	1
-reject swirling rumors of his impending departure	1
-primitve and slapdash	1
+gibberish --- 1
+A emphatic refusal --- 1
+reject swirling rumors of his *impending* departure --- 1	
 The firm's problem starting to take a toll	1
-This is getting out of hand	1
 imminent vs emminent	1
 seductive	1
 I will not be deterred	1
-To do that, you are going to *carry out* 4 steps	1
-To do that, you are going to carry out 4 steps	2
 hammer out: to create a solution or agreement to a problem	1
 Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse	1
 whether through an involuntary blush or the artifice of a false smile	1
