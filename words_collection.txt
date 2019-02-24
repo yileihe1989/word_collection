@@ -115,22 +115,20 @@ the tension *ratcheted up*	--- 1
 gibberish --- 1
 A emphatic refusal --- 1
 reject swirling rumors of his *impending* departure --- 1	
-The firm's problem starting to take a toll	1
-imminent vs emminent	1
-seductive	1
-I will not be deterred	1
-hammer out: to create a solution or agreement to a problem	1
-Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse	1
-whether through an involuntary blush or the artifice of a false smile	1
-The arduous working condition	1
-My own values made me unwilling to grovel and tell lies, despite my personal stake	1
+The firm's problem starting to take a toll --- 1
+imminent vs emminent --- 1
+seductive ~ mesmerizing --- 1
+hammer out: to create a solution or agreement to a problem --- 1
+Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse --- 1
+whether through an *involuntary* blush or the *artifice* of a false smile --- 0
+The arduous working condition --- 1
+My own values made me unwilling to *grovel* and tell lies, despite my personal stake --- 0
 Progress comes not only in great *leaps* but also from hundreds of small steps	1
-rising from obscruity to prominence	1
-be laser focues on	1
-They *longed* for a moment of respite(pron) | reprise(pron)	1
-We recounted for two-hours the litany of second dealing	1
-pillage = plunder vs squander (squander the opportunity)	1
-imperturbable (Pronun)	1
+rising from obscruity to prominence --- 1
+be laser focues on --- 1
+We recounted for two-hours the litany of second dealing	--- 1
+pillage = plunder vs squander (squander the opportunity) --- 1
+imper'turbable (Pronun)	--- 0
 The course team is currently putting the finishing touches on the course 4.	1
 Let's get a couple of movies under our belt first	1
 If one looks hard and honestly, even the supposed paragon of user-generated content - Wikipedia itself - is far from pure bottom-up.	1
@@ -148,7 +146,6 @@ Other times, I have imagined my feet on either side of one of those balanced boa
 You must define a *standalone* input layer.	1
 The culprit will be hard to *pin down*	1
 toss our far-out ideas	1
-preeminence | eminence	1
 *As much as* I enjoyed Sapiens, there was plenty of disagree with in the book	1
 The time they have saved by not *gnashing their teeth about* whether they are on the right course has*comesin handy* when they *hit a dead end* and need to reboot.	1
 manifestation 	1
@@ -167,7 +164,6 @@ Old theories were debunked	1
 The economy bears all the classic hallmarks of complexity.	1
 Jack Ma has *ruffled feathers* with his high profile.	1
 We are endowed(pron) by the creator with certain unalienable rights.	2
-The path to enlargement is prosaic, humdrum and everyday.	2
 The Internet has become so overrun with nefarious actors.	2
 We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	2
 Incorrigible	2
@@ -239,10 +235,10 @@ I took the opportunity to *exert some leverage*	2
 You have got a lot of edge going for you	2
 I have to give this speech three times before it finally *sunk in*.	2
 He is not supposed to *register* emotion.	2
-But some didn't understand the struggle and risk that success had entailed	2
-plethora of data | paucity (deficiency) of data	2
-immutable law/I learned one immutable truth	2
-We still have misgiving about the way the campaign is run	2
+But some didn't understand the struggle and risk that success had entailed --- 0
+plethora of data | paucity (deficiency) of data	--- 0
+immutable law/I learned one immutable truth --- 0
+We still have misgiving about the way the campaign is run --- 0
 We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.	2
 The club has been under a great deal of unfair scrutiny lately	2
 recourse to	2
@@ -250,16 +246,12 @@ The unrivalled ability	3
 defy everybody's expectaitons	3
 We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.	3
 Work up to your capability	3
-Plunder vs blunder vs squander	3
 This has *fed a sense* that open economy is good for small elite but does nothing for the broad mass of people.	3
 rousing	3
 Points of view, tradition, and conventional wisdom that *looked to be* as solid as an iceberg, and just as permanent, can now suddenly melt in a day, in ways that used to take a generation.	3
-The chance for that is bleak	3
 You cannot keep doing this, it is going to catch up with you.	3
-Eminent/eminence	3
 separate hype from reality	3
-I am absorbed in reading	3
-Rattle off	3
+Rattle off --- 0
 unwavering commitment	3
 Make sure everything is checked in.	3
 Compulsive (uncontrollable) gambler	3
@@ -270,9 +262,11 @@ Display your modeling *mettle* to the hiring team	3
 I am not endorsing change for change's sake. There are often good reasons to *hang on* to things that work.	3
 It is precisely because of	3
 But to me, the key is not to let this trust, our faith, *lull us into* the *abdication* of personal responsibility. | abdication: failure to fulfill responsibility or duty	3
-To circumvent the lack of data	4
 We had to barge out way into things.	0
 There is nothing to *prompt* learning like pain and necessity, and this has given me plenty of both.	0
 To let an old man to master itimmediately is *a wishful thinking*.	0
 brows furrow	0
 Crack the nut=solve problem --- 0
+I read them and probed him about them to try to glean what characteristics they had in common. --- 0
+If it passes muster, ... --- 0
+He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. --- 0 
