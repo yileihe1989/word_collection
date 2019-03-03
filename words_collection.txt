@@ -134,12 +134,12 @@ A big bankroll is required to *ride out* big losses --- 1
 idiom: have the last word in --- 1
 The tag line for the ad read --- 1
 Its profit margin would make you salivate --- 1
-It is a well-thought-out idea	1
-whereas the cost of his car is less evident and can be *put out of mind*	1
-The *proliferation* of small tables also mean that tracking data relations need more *diligence*.	1
-Achieve the same level of insight is *elusive*. | When viewed from a vantage point, a full picture of the dynamics of any group is *elusive*.	1
-We wanted the best idea to be pushed forward, not languish.	1
-Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller.	1
+It is a well-thought-out idea --- 1
+whereas the cost of his car is less evident(replace obvious) and can be *put out of mind* --- 1
+The *proliferation* of small tables also mean that tracking data relations need more *diligence*. --- 0
+Achieve the same level of insight is *elusive*. | When viewed from a vantage point, a full picture of the dynamics of any group is *elusive*. --- 0
+We wanted the best idea to be pushed forward, not languish. --- 0
+Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller. --- 1
 You must define a *standalone* input layer.	1
 The culprit will be hard to *pin down*	1
 toss our far-out ideas	1
