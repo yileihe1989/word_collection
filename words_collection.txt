@@ -140,19 +140,14 @@ The *proliferation* of small tables also mean that tracking data relations need 
 Achieve the same level of insight is *elusive*. | When viewed from a vantage point, a full picture of the dynamics of any group is *elusive*. --- 0
 We wanted the best idea to be pushed forward, not languish. --- 0
 Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller. --- 1
-You must define a *standalone* input layer.	1
-The culprit will be hard to *pin down*	1
-toss our far-out ideas	1
-*As much as* I enjoyed Sapiens, there was plenty of disagree with in the book	1
-The time they have saved by not *gnashing their teeth about* whether they are on the right course has*comesin handy* when they *hit a dead end* and need to reboot.	1
-manifestation 	1
-Inadvertently (prou)	1
-If you only view your failure as unforseen consequence of good intention, how can you every really hope to change?	1
-squander the opportunity	1
-This does not mean, however, that the empire leave nothing of value in their wake.	1
+You must define a *standalone* input layer. --- 1
+The culprit will be hard to *pin down*	--- 1
+toss our *far-out* ideas	--- 0
+*As much as* I enjoyed Sapiens, there was plenty of disagree with in the book --- 0
+Inadvertently (prou) --- 0
 paragon/paradigm	1
 aboveboard	1
-quintessential	1
+quintessential --- 0
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases)	1
 spot-on comment	1
 avaricious = greedy	1
@@ -255,4 +250,10 @@ brows furrow	0
 Crack the nut=solve problem --- 0
 I read them and probed him about them to try to glean what characteristics they had in common. --- 0
 If it passes muster, ... --- 0
+He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. --- 0
+price is tumbling --- 0
+an uphill battle --- 0
+As the litigation *dragged on* into the fall --- 0
+That was an attemp to smoke you out --- 0
+Being bogged down --- 0
 He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. --- 0 
