@@ -148,32 +148,23 @@ Inadvertently (prou) --- 0
 paragon/paradigm	1
 aboveboard	1
 quintessential --- 0
-Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases)	1
-spot-on comment	1
-avaricious = greedy	1
-lopsided = crooked	1
-Old theories were debunked	1
-The economy bears all the classic hallmarks of complexity.	1
-Jack Ma has *ruffled feathers* with his high profile.	1
-We are endowed(pron) by the creator with certain unalienable rights.	2
-The Internet has become so overrun with nefarious actors.	2
-We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval.	2
-Incorrigible	2
-carve up markets	2
-incipient	2
-Tour de force	2
-There is no room for equivocation here	2
-walkover = easy vicotry	2
-We had a late changes to our dimensions, so we got different versions floating around.	2
-A once-of-century talent	2
-While making money was good, having meaning work and relationship was far beter. To me, meaningful work is being on a mission I become engrossed in.	2
+Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) --- 1
+spot-on comment	--- 1
+avaricious = greedy --- 1
+lopsided = crooked --- 1
+Old theories were debunked --- 0
+The economy bears all the classic hallmarks of complexity. --- 1
+Jack Ma has *ruffled feathers* with his high profile.|Don't let her ruffle your feathers. --- 0
+We are endowed(pron) by the creator with certain unalienable rights. --- 2
+The Internet has become so overrun with nefarious actors. --- 0
+We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval. --- 0
+Incorrigible --- 2
+incipient --- 2
+walkover = easy vicotry	--- 0
+We had a late changes to our dimensions, so we got different versions floating around --- 2
 Nontheless, something has to be done to *reckon with* the sheer complexity of the problems. --- 0
-They fueled an ineffaceable admiration for the eclectic and eccentric statesman	2
-SBSE is now starting to *chieve significant uptake* in the industrial and practitioner sectors	2
-The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see.	2
-deliberation: after much deliberation, the meeting reaches a compromise	2
-Even if it is a top of the funnel problem, it is unreasonable to ask companies to wait for designers to surface in due course and not an option for many startups with limited runway.	2
-arcane	2
+They fueled an ineffaceable admiration for the eclectic and eccentric statesman --- 2
+The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see. --- 0
 It is why we went through incredilbe lengths to find talents.	2
 tried-and-true	2
 Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.	2
@@ -257,3 +248,7 @@ As the litigation *dragged on* into the fall --- 0
 That was an attemp to smoke you out --- 0
 Being bogged down --- 0
 He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. --- 0 
+The CEO made headlines with a policy of offering employees a thousand dollars for taking vacation --- 0
+The food is going to spoil --- 0
+Is that a adjacent area --- 0
+Although it was a big setback, I was slowly making headways at other fronts --- 0
