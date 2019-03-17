@@ -8,8 +8,12 @@ def word_preprocess(item,line_index):
     item_clean = [i for i in item if i != ""] if len(item) > 2 else item
     if len(item_clean) > 2:
         raise Exception("Invalid word item: {}".format(item_clean))
-    item_clean[-1] = int(item_clean[-1])
-
+    
+    try:
+    	item_clean[-1] = int(item_clean[-1])
+    except:
+    	print(item_clean)
+    
     return item_clean
 
 
@@ -41,6 +45,7 @@ def bs_find_index(array,value):
 def execute_learning(words_collection,end_point):
     ifcont = "Y"
     reviewed = set()
+    delted = set()
     while ifcont in ['Y', 'y', "", "yes"]:
         curr_index = random.randint(0,end_index)
         if curr_index not in reviewed:
@@ -48,10 +53,16 @@ def execute_learning(words_collection,end_point):
             print (textwrap.fill(words_collection[curr_index][0]))
             words_collection[curr_index][1] += 1
             reviewed.add(curr_index)
+            ## TODO: add delete word option
+            ifdelete = input("If Delete:")
+            if ifdelete in ['Y', 'y', "", "yes"]:
+            	_ = words_collection.pop(curr_index)
             ifcont = input("If Continue?")
         else:
             continue
     print("Total sentences reviewed today is {}".format(len(reviewed)))
+
+    return words_collection
 
 
 if __name__ == "__main__":
@@ -59,9 +70,9 @@ if __name__ == "__main__":
     words_collection = read_data(file_path)
     count_treshold = int(input("Less than?"))
     end_index = bs_find_index(words_collection, count_treshold)
-    execute_learning(words_collection, end_index)
+    words_collection = execute_learning(words_collection, end_index)
 
     fwrite = open(file_path, "w")
     for item in words_collection:
-        fwrite.write("\t".join([str(i) for i in item]) + "\n")
+        fwrite.write("---".join([str(i) for i in item]) + "\n")
     fwrite.close()

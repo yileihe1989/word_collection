@@ -1,0 +1,254 @@
+In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	--- 0
+inveterate	--- 0
+He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	--- 0
+I think he encapsulated two of the characteristics for a succesful crime lord.	--- 0
+in a rut	--- 1
+Insatiable curiosity --- 0
+You should take it with a grain of salt. --- 1
+A drop in house price of 5 per cent would cut supply, as sellers withdraw homes from the market and try to ride it out. --- 0
+The arduous working condition --- 0
+Everybody is looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way. --- 0
+We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny --- 0
+persist against all odds | beating these tough odds | the random events did not go our way	--- 0
+Their combined model was more complex - and more limiting - than either of the models would have been on its own. --- 0
+disparate views	--- 0
+perpetrate	--- 0
+These problmes must be dealt with anew | Think anew	--- 0
+intransigence	--- 0
+unnerve	--- 0
+The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	--- 1
+There is *prominent* P.F.Chang sign on the 8th-floor entrance.	--- 0
+a momentary lapse of reasoning	--- 0
+This faith will never *catch on*	--- 0
+Joining the club can help me keep the internecine skirmishes in perspective. / You can put your worries in perspectives when you realize how many people in the world are worse off than you. --- 0
+The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. --- 0
+I am so sorry if I overstepped my bounds	--- 0
+We don't have to *put up with* this.	--- 0
+She is young, she is brilliant, she is *going places*	--- 0
+branch out --- 1
+deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice --- 0
+stop icing me out --- 0
+chalk up such "lamentation" to *little more than* the sting of defeat.--- 0
+tempt the fate(take extreme risk) --- 0
+exasperate --- 0
+He lashed out at a cab diver. --- 0
+makeshift --- 0
+Hard problem in academic is a *euphemism* for impossible. --- 0
+All we have from the Opposition is overblown rhetoric. --- 0
+He totally snubbed us---1
+provocative --- 0
+cajole sb into doing --- 0
+It was him do all the heavy-lifting --- 0
+frame the issue out of context --- 0
+But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	--- 0
+Mendy epitomizes Pep's style of coach.	--- 0
+Something *worked to* our mutual advantage.(Ray Dalio P24) --- 0
+The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder --- 0
+The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it. --- 0
+The syndicate of crime is not set up in a haphazrd fashion. --- 1
+Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. --- 0
+That is the most abysmal date I ever had. --- 0
+the concept is way over my head --- 0
+discern --- 0
+Feel free to jump in, we are spitballing here. --- 0
+intractable:out of control, hard to manage. --- 0
+make sure the technology mesh with human world.	--- 0
+The number is immense --- 0
+hem and haw --- 0
+Information in this guide is not incorrect, just antiquated; advice in this guide is as good as ever. --- 0
+the mobile pay has gone mainstream in Korea. --- 0
+How do you sleep at night when you are knowhing these risk is imminent.	--- 0
+How can clothing and nutrition become so *deficient* in the land of opportunity. --- 0
+kooky idea --- 0
+Glitter is Robin's former best friend and co-star *from her days* performing on a Canadian kid show. --- 0  
+When market turns *choppier* they sell, and when turbulence *simmers down* they buy. --- 0
+These items will be *fleshed out in more detail* below	--- 0
+ineffable --- 0
+distinctive personality	 --- 1
+eloquent: an eloquent speech => fluent or persuasive in speaking or writing --- 0
+take a lot of reasoning to persuade him	 --- 0
+The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology --- 0
+I also learned that judging people before seeing thing through their eyes really stands in the way of understanding their circumstances and that isn's smart.--- 0
+You shouldn't sell Harvard short.--- 0
+All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	--- 0
+I took his advice to heart as I set out to improve Bridgewater's governance model --- 0
+The printing business has been Orville's idea from the start --- 0
+*bear more resemblance* to a start-up --- 1
+prodigious --- 1
+The team was on a roll. (experiencing a particularly successful period, without any setback or low points) --- 1
+Let's just google, for the peace of mind --- 1
+Our legal system is complicated, and sometimes it can feel capricious. --- 1
+As I watched, my memory flashed over his whole journey. --- 1
+know the equipment inside and out	--- 1
+And *whereas* the Escobar craved the spotlight, these guys stay in shadow. 	---- 1
+If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised as the same graph is rerun over and over.	--- 1
+Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	--- 1
+Avinash Kaushik, digital marketing evangelist at Google, warns that trying to get website users to see as many ads as possible naturally *devolves* into trying to *cram* sites with ads. --- 1
+modulate your expectation --- 1
+eschew 	--- 1
+idiom: bread and butter: main source of income	--- 1
+*cocooned* in their groupthink, experts do not always know their best	--- 1
+With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. --- 1
+Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	--- 1
+a handsome profit	--- 1
+The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984. --- 1
+Idiom: pull their punches --- 1
+This *sounds bulletproof* in theory, but in practice the bullet gets through all to easily --- 1
+freewheeling	---- 2
+The investors will be asked to shoulder big investments and hefy losses for the time being.	--- 1
+The exaggerated hopes they have aroused will *evaporate* quickly. --- 1
+hotshot programmers --- 1
+detest - antipathy vs dread --- 1
+be in over one's head (be involved in something that is beyond my capacity) --- 1
+When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. --- 2
+Yet the system is not impervious to fraud. --- 2
+I cannot abide falling back to *square one* ---	1
+I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. --- 1
+sleep a wink --- 1
+ornate --- 1
+I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value. --- 1
+A *dichotomy* that will only *reinforce* the achievement gap that already exists in our nation. --- 1
+To put things in context --- 1
+decorum = etiquette	--- 1
+the tension *ratcheted up*	--- 1
+gibberish --- 1
+A emphatic refusal --- 1
+reject swirling rumors of his *impending* departure --- 1	
+The firm's problem starting to take a toll --- 1
+imminent vs emminent --- 1
+seductive ~ mesmerizing --- 1
+hammer out: to create a solution or agreement to a problem --- 1
+Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse --- 1
+whether through an *involuntary* blush or the *artifice* of a false smile --- 0
+The arduous working condition --- 1
+My own values made me unwilling to *grovel* and tell lies, despite my personal stake --- 0
+Progress comes not only in great *leaps* but also from hundreds of small steps	1
+rising from obscruity to prominence --- 1
+be laser focues on --- 1
+We recounted for two-hours the litany of second dealing	--- 1
+pillage = plunder vs squander (squander the opportunity) --- 1
+imper'turbable (Pronun)	--- 0
+The course team is currently putting the finishing touches on the course. --- 1
+Let's get a couple of movies under our belt first --- 1
+A big bankroll is required to *ride out* big losses --- 1
+idiom: have the last word in --- 1
+The tag line for the ad read --- 1
+Its profit margin would make you salivate --- 1
+It is a well-thought-out idea --- 1
+whereas the cost of his car is less evident(replace obvious) and can be *put out of mind* --- 1
+The *proliferation* of small tables also mean that tracking data relations need more *diligence*. --- 0
+Achieve the same level of insight is *elusive*. | When viewed from a vantage point, a full picture of the dynamics of any group is *elusive*. --- 0
+We wanted the best idea to be pushed forward, not languish. --- 0
+Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller. --- 1
+You must define a *standalone* input layer. --- 1
+The culprit will be hard to *pin down*	--- 1
+toss our *far-out* ideas	--- 0
+*As much as* I enjoyed Sapiens, there was plenty of disagree with in the book --- 0
+Inadvertently (prou) --- 0
+paragon/paradigm	1
+aboveboard	1
+quintessential --- 0
+Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) --- 1
+spot-on comment	--- 1
+avaricious = greedy --- 1
+lopsided = crooked --- 1
+Old theories were debunked --- 0
+The economy bears all the classic hallmarks of complexity. --- 1
+Jack Ma has *ruffled feathers* with his high profile.|Don't let her ruffle your feathers. --- 0
+We are endowed(pron) by the creator with certain unalienable rights. --- 2
+The Internet has become so overrun with nefarious actors. --- 0
+We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval. --- 0
+Incorrigible --- 2
+incipient --- 2
+walkover = easy vicotry	--- 0
+We had a late changes to our dimensions, so we got different versions floating around --- 2
+Nontheless, something has to be done to *reckon with* the sheer complexity of the problems. --- 0
+They fueled an ineffaceable admiration for the eclectic and eccentric statesman --- 2
+The implication, for me, was that we would inevitably be subject to those same delusion at Pixar unless we *came to term with* our own limited ability to see. --- 0
+It is why we went through incredilbe lengths to find talents.	2
+tried-and-true	2
+Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.	2
+winnowing process	2
+vagary of weather	2
+what you ask is just shy of treason	2
+We are impressed with small feats accomplished by computers alone, but we ignore big achievements from complementary because the human contribution makes them less uncanny	2
+untenable	2
+He was chastened by his team's defeat	2
+upkeep	2
+Before Ed Thorp, mathematician of gambling has their love of chance largely unrequited.	2
+He is discerning and rigorous in this analysis of each pieces|discern	2
+cachet	2
+a abiding hobby/passion | I cannot abide to go back to square one	2
+My concentration was so complete that I lost the awareness of my surrounding.	2
+You let your personal vendettas turn your focus away from what is best for the firm.	2
+The angry audience walked out en masse	2
+He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example	2
+angst	2
+I won't budge on that. 	2
+dread	2
+Bottom out	2
+engender = beget: cause or give rise to	2
+we can now find the needle in haystack with incredible ease	2
+Never raise your flag for a asinine [proun] cause like slavery	2
+Sow the seed for a digital age that will blossom a hindered years later.	2
+dissmulate	2
+egregious	2
+The meeting end with acrimony on both sides	2
+I would preach the practical value of regular maintenance till I am hoarse and it would make not a dent in him	2
+Before I gave my talk at the meeting, I hadn't envisaged the clamor and the sortof publicity that would follow.	2
+Plans are deliberately indefinite, more to travel than to arrive anywhere	2
+matter-of-fact =unemotional	2
+He hoped to parlay his basketball skills into a college scholarship/ He has parlayed these attributes into great success/ parlay machine learning into investing	2
+affable	2
+marketing gimmick	2
+be of immediate practical use	2
+vicarious 	2
+I took the opportunity to *exert some leverage*	2
+You have got a lot of edge going for you	2
+I have to give this speech three times before it finally *sunk in*.	2
+He is not supposed to *register* emotion.	2
+But some didn't understand the struggle and risk that success had entailed --- 0
+plethora of data | paucity (deficiency) of data	--- 0
+immutable law/I learned one immutable truth --- 0
+We still have misgiving about the way the campaign is run --- 0
+We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.	2
+The club has been under a great deal of unfair scrutiny lately	2
+recourse to	2
+The unrivalled ability	3
+defy everybody's expectaitons	3
+We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.	3
+Work up to your capability	3
+This has *fed a sense* that open economy is good for small elite but does nothing for the broad mass of people.	3
+rousing	3
+Points of view, tradition, and conventional wisdom that *looked to be* as solid as an iceberg, and just as permanent, can now suddenly melt in a day, in ways that used to take a generation.	3
+You cannot keep doing this, it is going to catch up with you.	3
+separate hype from reality	3
+Rattle off --- 0
+unwavering commitment	3
+Make sure everything is checked in.	3
+Compulsive (uncontrollable) gambler	3
+steadfast | He remained steadfast in his belief that he is doing the right thing	3
+I had to learn it one piece at a time, it is very laborious(pron)	3
+fallout from something	3
+Display your modeling *mettle* to the hiring team	3
+I am not endorsing change for change's sake. There are often good reasons to *hang on* to things that work.	3
+It is precisely because of	3
+But to me, the key is not to let this trust, our faith, *lull us into* the *abdication* of personal responsibility. | abdication: failure to fulfill responsibility or duty	3
+We had to barge out way into things.	0
+There is nothing to *prompt* learning like pain and necessity, and this has given me plenty of both.	0
+To let an old man to master itimmediately is *a wishful thinking*.	0
+brows furrow	0
+Crack the nut=solve problem --- 0
+I read them and probed him about them to try to glean what characteristics they had in common. --- 0
+If it passes muster, ... --- 0
+He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. --- 0
+price is tumbling --- 0
+an uphill battle --- 0
+As the litigation *dragged on* into the fall --- 0
+That was an attemp to smoke you out --- 0
+Being bogged down --- 0
+He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. --- 0 
+The CEO made headlines with a policy of offering employees a thousand dollars for taking vacation --- 0
+The food is going to spoil --- 0
+Is that a adjacent area --- 0
+Although it was a big setback, I was slowly making headways at other fronts --- 0
