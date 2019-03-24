@@ -8,8 +8,6 @@ The arduous working condition ---0
 Everybody is looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way. ---0
 We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny ---0
 persist against all odds | beating these tough odds | the random events did not go our way	---0
-Their combined model was more complex - and more limiting - than either of the models would have been on its own. ---0
-disparate views	---0
 perpetrate	---0
 These problmes must be dealt with anew | Think anew	---0
 intransigence	---0
@@ -24,7 +22,6 @@ We don't have to *put up with* this.	---0
 She is young, she is brilliant, she is *going places*	---0
 deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice ---0
 stop icing me out ---0
-chalk up such "lamentation" to *little more than* the sting of defeat.---0
 tempt the fate(take extreme risk) ---0
 exasperate ---0
 He lashed out at a cab diver. ---0
@@ -57,7 +54,6 @@ kooky idea ---0
 Glitter is Robin's former best friend and co-star *from her days* performing on a Canadian kid show. ---0
 When market turns *choppier* they sell, and when turbulence *simmers down* they buy. ---0
 These items will be *fleshed out in more detail* below	---0
-ineffable ---0
 eloquent: an eloquent speech => fluent or persuasive in speaking or writing ---0
 take a lot of reasoning to persuade him	 ---0
 The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology ---0
@@ -83,7 +79,7 @@ We think of young as *stereotypically fickle*, the old, *stereotypically set in 
 walkover = easy vicotry	---0
 Nontheless, something has to be done to *reckon with* the sheer complexity of the problems. ---0
 But some didn't understand the struggle and risk that success had entailed ---0
-plethora of data | paucity (deficiency) of data	---0
+plethora of data | paucity (deficiency) of data	---1
 immutable law/I learned one immutable truth ---0
 We still have misgiving about the way the campaign is run ---0
 Rattle off ---0
@@ -104,7 +100,16 @@ He and his brother would always *stand as a example* of how far Americans with n
 The CEO made headlines with a policy of offering employees a thousand dollars for taking vacation ---0
 The food is going to spoil ---0
 Is that a adjacent area ---0
-Although it was a big setback, I was slowly making headways at other fronts ---0
+Despite theoretically it is possible, but the devil is always in the detail ---0
+In a timely fashion ---0
+Make a headway ---0
+like day and night ---0
+It is incredible to see many teams across the company to rally together to rein in these diffcult challenges. ---0
+If the bank is boring, then the bond department is straight-up comatose. ---1
+over the top | overblown ---0
+The laywer weren't of much help when you asked them. ---0
+It was an old trick that astute Wall Street analysts versed in corporate *sleights of hands* *saw right through*. ---0
+It would throw off the performance of overall system. ---0
 in a rut	---1
 You should take it with a grain of salt. ---1
 The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	---1
@@ -130,7 +135,6 @@ Such grandiose forecast kindles anxity as well as hope (negative, similar to pre
 a handsome profit	---1
 The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984. ---1
 Idiom: pull their punches ---1
-This *sounds bulletproof* in theory, but in practice the bullet gets through all to easily ---1
 The investors will be asked to shoulder big investments and hefy losses for the time being.	---1
 The exaggerated hopes they have aroused will *evaporate* quickly. ---1
 hotshot programmers ---1
@@ -145,7 +149,6 @@ To put things in context ---1
 decorum = etiquette	---1
 the tension *ratcheted up*	---1
 gibberish ---1
-A emphatic refusal ---1
 reject swirling rumors of his *impending* departure ---1
 The firm's problem starting to take a toll ---1
 imminent vs emminent ---1
@@ -176,7 +179,6 @@ spot-on comment	---1
 avaricious = greedy ---1
 lopsided = crooked ---1
 The economy bears all the classic hallmarks of complexity. ---1
-Let's just google, for the peace of mind ---2
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. ---2
 Yet the system is not impervious to fraud. ---2
 We are endowed(pron) by the creator with certain unalienable rights. ---2
@@ -228,7 +230,6 @@ We are travellign up to a winding canyon road with a steep cliff immediately to 
 The club has been under a great deal of unfair scrutiny lately---2
 recourse to---2
 The unrivalled ability---3
-defy everybody's expectaitons---3
 We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.---3
 Work up to your capability---3
 This has *fed a sense* that open economy is good for small elite but does nothing for the broad mass of people.---3
@@ -246,7 +247,3 @@ Display your modeling *mettle* to the hiring team---3
 I am not endorsing change for change's sake. There are often good reasons to *hang on* to things that work.---3
 It is precisely because of---3
 But to me, the key is not to let this trust, our faith, *lull us into* the *abdication* of personal responsibility. (abdication: failure to fulfill responsibility or duty) ---3
-Despite theoretically it is possible, but the devil is always in the detail --- 0
-In a timely fashion --- 0
-Make a headway --- 0
-like day and night --- 0
