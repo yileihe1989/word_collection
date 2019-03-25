@@ -1,4 +1,7 @@
 In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	---0
+accolade ---0
+With the groud rules for our conversation established, Alan let down his guard and we talked for more than an hour. ---0
+He told me in broad strokes the story of his eight months at the company. ---0
 inveterate	---0
 He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	---0
 I think he encapsulated two of the characteristics for a succesful crime lord.	---0
@@ -6,14 +9,12 @@ Insatiable curiosity ---0
 A drop in house price of 5 per cent would cut supply, as sellers withdraw homes from the market and try to ride it out. ---0
 The arduous working condition ---0
 Everybody is looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way. ---0
-We are impressed with small feats accomplished by computers alone, but we ignore big achievements from because the human contribution makes them less uncanny ---0
 persist against all odds | beating these tough odds | the random events did not go our way	---0
 perpetrate	---0
 These problmes must be dealt with anew | Think anew	---0
 intransigence	---0
 unnerve	---0
 There is *prominent* P.F.Chang sign on the 8th-floor entrance.	---0
-a momentary lapse of reasoning	---0
 This faith will never *catch on*	---0
 Joining the club can help me keep the internecine skirmishes in perspective. / You can put your worries in perspectives when you realize how many people in the world are worse off than you. ---0
 The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---0
@@ -47,7 +48,7 @@ make sure the technology mesh with human world.	---0
 The number is immense ---0
 hem and haw ---0
 Information in this guide is not incorrect, just antiquated; advice in this guide is as good as ever. ---0
-the mobile pay has gone mainstream in Korea. ---0
+the mobile pay has gone mainstream in Korea. ---1
 How do you sleep at night when you are knowhing these risk is imminent.	---0
 How can clothing and nutrition become so *deficient* in the land of opportunity. ---0
 kooky idea ---0
@@ -67,19 +68,15 @@ My own values made me unwilling to *grovel* and tell lies, despite my personal s
 imper'turbable (Pronun)	---0
 The *proliferation* of small tables also mean that tracking data relations need more *diligence*. ---0
 Achieve the same level of insight is *elusive*. | When viewed from a vantage point, a full picture of the dynamics of any group is *elusive*. ---0
-We wanted the best idea to be pushed forward, not languish. ---0
 toss our *far-out* ideas	---0
 *As much as* I enjoyed Sapiens, there was plenty of disagree with in the book ---0
-Inadvertently (prou) ---0
 quintessential ---0
 Old theories were debunked ---0
 Jack Ma has *ruffled feathers* with his high profile.|Don't let her ruffle your feathers. ---0
-The Internet has become so overrun with nefarious actors. ---0
 We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval. ---0
 walkover = easy vicotry	---0
 Nontheless, something has to be done to *reckon with* the sheer complexity of the problems. ---0
 But some didn't understand the struggle and risk that success had entailed ---0
-plethora of data | paucity (deficiency) of data	---1
 immutable law/I learned one immutable truth ---0
 We still have misgiving about the way the campaign is run ---0
 Rattle off ---0
@@ -105,11 +102,12 @@ In a timely fashion ---0
 Make a headway ---0
 like day and night ---0
 It is incredible to see many teams across the company to rally together to rein in these diffcult challenges. ---0
-If the bank is boring, then the bond department is straight-up comatose. ---1
 over the top | overblown ---0
 The laywer weren't of much help when you asked them. ---0
 It was an old trick that astute Wall Street analysts versed in corporate *sleights of hands* *saw right through*. ---0
 It would throw off the performance of overall system. ---0
+plethora of data | paucity (deficiency) of data	---1
+If the bank is boring, then the bond department is straight-up comatose. ---1
 in a rut	---1
 You should take it with a grain of salt. ---1
 The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	---1
@@ -117,7 +115,7 @@ branch out ---1
 He totally snubbed us---1
 The syndicate of crime is not set up in a haphazrd fashion. ---1
 distinctive personality	 ---1
-*bear more resemblance* to a start-up ---1
+*bear more resemblance* to a start-up ---2
 prodigious ---1
 The team was on a roll. (experiencing a particularly successful period, without any setback or low points) ---1
 Our legal system is complicated, and sometimes it can feel capricious. ---1
@@ -154,8 +152,6 @@ The firm's problem starting to take a toll ---1
 imminent vs emminent ---1
 seductive ~ mesmerizing ---1
 hammer out: to create a solution or agreement to a problem ---1
-Whenever Sadik trying to talk me into hitting the bar, I would beg off with a tepid excuse ---1
-The arduous working condition ---1
 Progress comes not only in great *leaps* but also from hundreds of small steps---1
 rising from obscruity to prominence ---1
 be laser focues on ---1
@@ -200,7 +196,6 @@ He is discerning and rigorous in this analysis of each pieces|discern---2
 cachet---2
 a abiding hobby/passion | I cannot abide to go back to square one---2
 My concentration was so complete that I lost the awareness of my surrounding.---2
-You let your personal vendettas turn your focus away from what is best for the firm.---2
 The angry audience walked out en masse---2
 He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example---2
 angst---2
