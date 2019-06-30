@@ -1,7 +1,9 @@
+As your ball is dropping, it is picking up its speed. It is going gast through your hittzing zone ---0
+evidently == obviously ---0
+You have 60 bucks *entirely*? ---0
 In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	---0
 accolade ---0
 With the groud rules for our conversation established, Alan let down his guard and we talked for more than an hour. ---0
-He told me in broad strokes the story of his eight months at the company. ---0
 inveterate	---0
 He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	---0
 I think he encapsulated two of the characteristics for a succesful crime lord.	---0
@@ -12,30 +14,25 @@ Everybody is looking out for number one. Survival of the fittest. Tooth and claw
 persist against all odds | beating these tough odds | the random events did not go our way	---0
 perpetrate	---0
 These problmes must be dealt with anew | Think anew	---0
-intransigence	---0
 unnerve	---0
-There is *prominent* P.F.Chang sign on the 8th-floor entrance.	---0
-This faith will never *catch on*	---0
-Joining the club can help me keep the internecine skirmishes in perspective. / You can put your worries in perspectives when you realize how many people in the world are worse off than you. ---0
 The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---0
 I am so sorry if I overstepped my bounds	---0
 We don't have to *put up with* this.	---0
 She is young, she is brilliant, she is *going places*	---0
 deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice ---0
 stop icing me out ---0
-tempt the fate(take extreme risk) ---0
 exasperate ---0
 He lashed out at a cab diver. ---0
 makeshift ---0
 Hard problem in academic is a *euphemism* for impossible. ---0
 All we have from the Opposition is overblown rhetoric. ---0
+Your pronuncation starts to "slip" while you ar tired ---0
 provocative ---0
 cajole sb into doing ---0
 It was him do all the heavy-lifting ---0
 But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	---0
 Mendy epitomizes Pep's style of coach.	---0
 Something *worked to* our mutual advantage.(Ray Dalio P24) ---0
-The vampire, powerless against his *compulsion*, *stoops* to pick them up one-by-one | obsseive-compulsive-disorder ---0
 The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it. ---0
 Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. ---0
 That is the most abysmal date I ever had. ---0
@@ -56,7 +53,6 @@ These items will be *fleshed out in more detail* below	---0
 eloquent: an eloquent speech => fluent or persuasive in speaking or writing ---0
 take a lot of reasoning to persuade him	 ---0
 The failure points to a predicament with the adoption of AI that reaches well beyond driverless cars. Without careful design, the intelligent systems making their way into the world would provoke backlash against the technology ---0
-I also learned that judging people before seeing thing through their eyes really stands in the way of understanding their circumstances and that isn's smart.---0
 You shouldn't sell Harvard short.---0
 All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	---0
 I took his advice to heart as I set out to improve Bridgewater's governance model ---0
@@ -80,14 +76,12 @@ Rattle off ---0
 There is nothing to *prompt* learning like pain and necessity, and this has given me plenty of both.---0
 To let an old man to master itimmediately is *a wishful thinking*.---0
 brows furrow---0
-Crack the nut=solve problem ---0
 I read them and probed him about them to try to glean what characteristics they had in common. ---0
 If it passes muster, ... ---0
 He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. ---0
 price is tumbling ---0
 As the litigation *dragged on* into the fall ---0
 That was an attemp to smoke you out ---0
-Being bogged down ---0
 He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. ---0
 The food is going to spoil ---0
 Is that a adjacent area ---0
@@ -95,11 +89,9 @@ Despite theoretically it is possible, but the devil is always in the detail ---0
 In a timely fashion ---0
 Make a headway ---0
 like day and night ---0
-It is incredible to see many teams across the company to rally together to rein in these diffcult challenges. ---0
 over the top | overblown ---0
 The laywer weren't of much help when you asked them. ---0
 It was an old trick that astute Wall Street analysts versed in corporate *sleights of hands* *saw right through*. ---0
-It would throw off the performance of overall system. ---0
 He told me in broad stroke the story of his eight months at compnay ---0
 If there was a collateral damage on her way to riches, so be it ---0
 The fugus is on a rampage ---0
@@ -107,6 +99,7 @@ The growth is in line with what we expected. ---0
 They fell off the cliff a couple of times ---0
 In his inimitable pugnacious book ---0
 As your ball is dropping, it is picking up speed. It is going fast through your hitting zone. ---0
+intransigence	---1
 the mobile pay has gone mainstream in Korea. ---1
 plethora of data | paucity (deficiency) of data	---1
 If the bank is boring, then the bond department is straight-up comatose. ---1
@@ -132,11 +125,8 @@ idiom: bread and butter: main source of income	---1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. ---1
 Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---1
 a handsome profit	---1
-The times we lived in taught us both to question established ways of doing things-the attitude he demonstrated superbly in Apple iconic 1984. ---1
-Idiom: pull their punches ---1
 The investors will be asked to shoulder big investments and hefy losses for the time being.	---1
 The exaggerated hopes they have aroused will *evaporate* quickly. ---1
-hotshot programmers ---1
 detest - antipathy vs dread ---1
 I cannot abide falling back to *square one* ---1
 I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. ---1
@@ -149,7 +139,6 @@ decorum = etiquette	---1
 the tension *ratcheted up*	---1
 gibberish ---1
 reject swirling rumors of his *impending* departure ---1
-The firm's problem starting to take a toll ---1
 imminent vs emminent ---1
 seductive ~ mesmerizing ---1
 hammer out: to create a solution or agreement to a problem ---1
@@ -158,7 +147,7 @@ be laser focues on ---1
 We recounted for two-hours the litany of second dealing	---1
 pillage = plunder vs squander (squander the opportunity) ---1
 The course team is currently putting the finishing touches on the course. ---1
-Let's get a couple of movies under our belt first ---1
+Let's get a couple of movies under our belt first ---2
 A big bankroll is required to *ride out* big losses ---1
 idiom: have the last word in ---1
 The tag line for the ad read ---1
@@ -172,12 +161,10 @@ paragon/paradigm---1
 aboveboard---1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) ---1
 spot-on comment	---1
-avaricious = greedy ---1
 lopsided = crooked ---1
 The economy bears all the classic hallmarks of complexity. ---1
 *bear more resemblance* to a start-up ---2
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. ---2
-Yet the system is not impervious to fraud. ---2
 Incorrigible ---2
 incipient ---2
 They fueled an ineffaceable admiration for the eclectic and eccentric statesman ---2
@@ -195,8 +182,6 @@ My concentration was so complete that I lost the awareness of my surrounding.---
 The angry audience walked out en masse---2
 He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example---2
 angst---2
-I won't budge on that. ---2
-dread---2
 Bottom out---2
 engender = beget: cause or give rise to---2
 we can now find the needle in haystack with incredible ease---2
@@ -208,7 +193,6 @@ The meeting end with acrimony on both sides---2
 I would preach the practical value of regular maintenance till I am hoarse and it would make not a dent in him---2
 Before I gave my talk at the meeting, I hadn't envisaged the clamor and the sortof publicity that would follow.---2
 He hoped to parlay his basketball skills into a college scholarship/ He has parlayed these attributes into great success/ parlay machine learning into investing---2
-affable---2
 marketing gimmick---2
 be of immediate practical use---2
 vicarious ---2
@@ -216,9 +200,9 @@ I took the opportunity to *exert some leverage*---2
 You have got a lot of edge going for you---2
 I have to give this speech three times before it finally *sunk in*.---2
 He is not supposed to *register* emotion.---2
-We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.---3
 The club has been under a great deal of unfair scrutiny lately---2
 recourse to---2
+We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.---3
 The unrivalled ability---3
 We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.---3
 Work up to your capability---3
