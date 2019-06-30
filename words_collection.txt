@@ -1,3 +1,8 @@
+fillial ---0
+detractor (not betray) ---0
+That joke is nice, but I think I can top that ---0
+If there is anything special we need to do in this case, we need to *plan for lead time* ---0
+I am angry, but I just don't think any reason to make a big spectacle of myself. | make a fuss ---0
 As your ball is dropping, it is picking up its speed. It is going gast through your hittzing zone ---0
 evidently == obviously ---0
 You have 60 bucks *entirely*? ---0
@@ -15,7 +20,7 @@ persist against all odds | beating these tough odds | the random events did not 
 perpetrate	---0
 These problmes must be dealt with anew | Think anew	---0
 unnerve	---0
-The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---0
+The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
 I am so sorry if I overstepped my bounds	---0
 We don't have to *put up with* this.	---0
 She is young, she is brilliant, she is *going places*	---0
@@ -57,7 +62,7 @@ You shouldn't sell Harvard short.---0
 All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	---0
 I took his advice to heart as I set out to improve Bridgewater's governance model ---0
 The printing business has been Orville's idea from the start ---0
-whether through an *involuntary* blush or the *artifice* of a false smile ---0
+whether through an *involuntary* blush or the *artifice* of a false smile ---1
 My own values made me unwilling to *grovel* and tell lies, despite my personal stake ---0
 imper'turbable (Pronun)	---0
 The *proliferation* of small tables also mean that tracking data relations need more *diligence*. ---0
@@ -79,7 +84,7 @@ brows furrow---0
 I read them and probed him about them to try to glean what characteristics they had in common. ---0
 If it passes muster, ... ---0
 He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. ---0
-price is tumbling ---0
+price is tumbling ---1
 As the litigation *dragged on* into the fall ---0
 That was an attemp to smoke you out ---0
 He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. ---0
@@ -95,7 +100,6 @@ It was an old trick that astute Wall Street analysts versed in corporate *sleigh
 He told me in broad stroke the story of his eight months at compnay ---0
 If there was a collateral damage on her way to riches, so be it ---0
 The fugus is on a rampage ---0
-The growth is in line with what we expected. ---0
 They fell off the cliff a couple of times ---0
 In his inimitable pugnacious book ---0
 As your ball is dropping, it is picking up speed. It is going fast through your hitting zone. ---0
@@ -123,7 +127,7 @@ eschew 	---1
 idiom: bread and butter: main source of income	---1
 *cocooned* in their groupthink, experts do not always know their best	---1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. ---1
-Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---1
+Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---2
 a handsome profit	---1
 The investors will be asked to shoulder big investments and hefy losses for the time being.	---1
 The exaggerated hopes they have aroused will *evaporate* quickly. ---1
@@ -147,7 +151,6 @@ be laser focues on ---1
 We recounted for two-hours the litany of second dealing	---1
 pillage = plunder vs squander (squander the opportunity) ---1
 The course team is currently putting the finishing touches on the course. ---1
-Let's get a couple of movies under our belt first ---2
 A big bankroll is required to *ride out* big losses ---1
 idiom: have the last word in ---1
 The tag line for the ad read ---1
@@ -163,6 +166,7 @@ Some scholars tried to exonerate our species, placing the blame on the vagaries 
 spot-on comment	---1
 lopsided = crooked ---1
 The economy bears all the classic hallmarks of complexity. ---1
+Let's get a couple of movies under our belt first ---2
 *bear more resemblance* to a start-up ---2
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. ---2
 Incorrigible ---2
