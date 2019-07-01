@@ -1,4 +1,8 @@
+In our conversations, we explore the ins and outs of Spiral, including how the system works,... ---0
+He had just pulbsihed his first cookbook, a massive thing called The Food Lab, which went on to win a reward. ---0
 fillial ---0
+The world will change, for better or worse. --- 0
+I was doing that *a moment ago* --- 0
 detractor (not betray) ---0
 That joke is nice, but I think I can top that ---0
 If there is anything special we need to do in this case, we need to *plan for lead time* ---0
@@ -20,7 +24,6 @@ persist against all odds | beating these tough odds | the random events did not 
 perpetrate	---0
 These problmes must be dealt with anew | Think anew	---0
 unnerve	---0
-The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
 I am so sorry if I overstepped my bounds	---0
 We don't have to *put up with* this.	---0
 She is young, she is brilliant, she is *going places*	---0
@@ -62,7 +65,6 @@ You shouldn't sell Harvard short.---0
 All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	---0
 I took his advice to heart as I set out to improve Bridgewater's governance model ---0
 The printing business has been Orville's idea from the start ---0
-whether through an *involuntary* blush or the *artifice* of a false smile ---1
 My own values made me unwilling to *grovel* and tell lies, despite my personal stake ---0
 imper'turbable (Pronun)	---0
 The *proliferation* of small tables also mean that tracking data relations need more *diligence*. ---0
@@ -82,9 +84,7 @@ There is nothing to *prompt* learning like pain and necessity, and this has give
 To let an old man to master itimmediately is *a wishful thinking*.---0
 brows furrow---0
 I read them and probed him about them to try to glean what characteristics they had in common. ---0
-If it passes muster, ... ---0
 He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. ---0
-price is tumbling ---1
 As the litigation *dragged on* into the fall ---0
 That was an attemp to smoke you out ---0
 He and his brother would always *stand as a example* of how far Americans with no special advantages could advance in the world. ---0
@@ -97,12 +97,14 @@ like day and night ---0
 over the top | overblown ---0
 The laywer weren't of much help when you asked them. ---0
 It was an old trick that astute Wall Street analysts versed in corporate *sleights of hands* *saw right through*. ---0
-He told me in broad stroke the story of his eight months at compnay ---0
 If there was a collateral damage on her way to riches, so be it ---0
 The fugus is on a rampage ---0
 They fell off the cliff a couple of times ---0
 In his inimitable pugnacious book ---0
 As your ball is dropping, it is picking up speed. It is going fast through your hitting zone. ---0
+The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
+whether through an *involuntary* blush or the *artifice* of a false smile ---1
+price is tumbling ---1
 intransigence	---1
 the mobile pay has gone mainstream in Korea. ---1
 plethora of data | paucity (deficiency) of data	---1
@@ -116,7 +118,6 @@ The syndicate of crime is not set up in a haphazrd fashion. ---1
 distinctive personality	 ---1
 prodigious ---1
 The team was on a roll. (experiencing a particularly successful period, without any setback or low points) ---1
-Our legal system is complicated, and sometimes it can feel capricious. ---1
 As I watched, my memory flashed over his whole journey. ---1
 know the equipment inside and out	---1
 If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised as the same graph is rerun over and over.	---1
@@ -127,7 +128,6 @@ eschew 	---1
 idiom: bread and butter: main source of income	---1
 *cocooned* in their groupthink, experts do not always know their best	---1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. ---1
-Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---2
 a handsome profit	---1
 The investors will be asked to shoulder big investments and hefy losses for the time being.	---1
 The exaggerated hopes they have aroused will *evaporate* quickly. ---1
@@ -135,7 +135,6 @@ detest - antipathy vs dread ---1
 I cannot abide falling back to *square one* ---1
 I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. ---1
 sleep a wink ---1
-ornate ---1
 I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value. ---1
 A *dichotomy* that will only *reinforce* the achievement gap that already exists in our nation. ---1
 To put things in context ---1
@@ -146,10 +145,9 @@ reject swirling rumors of his *impending* departure ---1
 imminent vs emminent ---1
 seductive ~ mesmerizing ---1
 hammer out: to create a solution or agreement to a problem ---1
-rising from obscruity to prominence ---1
 be laser focues on ---1
 We recounted for two-hours the litany of second dealing	---1
-pillage = plunder vs squander (squander the opportunity) ---1
+pillage = plunder vs squander (squander the opportunity) ---2
 The course team is currently putting the finishing touches on the course. ---1
 A big bankroll is required to *ride out* big losses ---1
 idiom: have the last word in ---1
@@ -161,11 +159,11 @@ Other times, I have imagined my feet on either side of one of those balanced boa
 You must define a *standalone* input layer. ---1
 The culprit will be hard to *pin down*	---1
 paragon/paradigm---1
-aboveboard---1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) ---1
 spot-on comment	---1
 lopsided = crooked ---1
 The economy bears all the classic hallmarks of complexity. ---1
+Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---2
 Let's get a couple of movies under our belt first ---2
 *bear more resemblance* to a start-up ---2
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. ---2
@@ -174,7 +172,6 @@ incipient ---2
 They fueled an ineffaceable admiration for the eclectic and eccentric statesman ---2
 It is why we went through incredilbe lengths to find talents.---2
 Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---2
-winnowing process---2
 vagary of weather---2
 untenable---2
 He was chastened by his team's defeat---2
@@ -205,7 +202,6 @@ You have got a lot of edge going for you---2
 I have to give this speech three times before it finally *sunk in*.---2
 He is not supposed to *register* emotion.---2
 The club has been under a great deal of unfair scrutiny lately---2
-recourse to---2
 We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.---3
 The unrivalled ability---3
 We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.---3
