@@ -6,11 +6,9 @@ Specialists' work is coordinated by a product manager, with "hand-offs" between 
 step-change impact ---0
 In our conversations, we explore the ins and outs of Spiral, including how the system works,... ---0
 He had just pulbsihed his first cookbook, a massive thing called The Food Lab, which went on to win a reward. ---0
-fillial ---0
 The world will change, for better or worse. ---0
 I was doing that *a moment ago* ---0
 detractor (not betray) ---0
-That joke is nice, but I think I can top that ---1
 If there is anything special we need to do in this case, we need to *plan for lead time* ---0
 I am angry, but I just don't think any reason to make a big spectacle of myself. | make a fuss ---0
 evidently == obviously ---0
@@ -26,7 +24,6 @@ The arduous working condition ---0
 Everybody is looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way. ---0
 persist against all odds | beating these tough odds | the random events did not go our way	---0
 perpetrate	---0
-These problmes must be dealt with anew | Think anew	---0
 unnerve	---0
 I am so sorry if I overstepped my bounds	---0
 We don't have to *put up with* this.	---0
@@ -39,7 +36,6 @@ makeshift ---0
 Hard problem in academic is a *euphemism* for impossible. ---0
 All we have from the Opposition is overblown rhetoric. ---0
 Your pronuncation starts to "slip" while you ar tired ---0
-provocative ---0
 cajole sb into doing ---0
 It was him do all the heavy-lifting ---0
 But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	---0
@@ -51,7 +47,6 @@ the concept is way over my head ---0
 discern ---0
 intractable:out of control, hard to manage. ---0
 make sure the technology mesh with human world.	---0
-The number is immense ---0
 hem and haw ---0
 Information in this guide is not incorrect, just antiquated; advice in this guide is as good as ever. ---0
 How do you sleep at night when you are knowhing these risk is imminent.	---0
@@ -98,6 +93,11 @@ If there was a collateral damage on her way to riches, so be it ---0
 They fell off the cliff a couple of times ---0
 In his inimitable pugnacious book ---0
 As your ball is dropping, it is picking up speed. It is going fast through your hitting zone. ---0
+nothing is written in stone ---0
+We are implementing a time-bound cap as a backstop for potentially viral content ---0
+He hired you, and I sort of rubber-stamped it. (approve) ---0
+I think this would be awkward for you, so I *come by* to discuss with you ---0
+That joke is nice, but I think I can top that ---1
 The fugus is on a rampage ---1
 The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
 price is tumbling ---1
@@ -105,7 +105,6 @@ intransigence	---1
 the mobile pay has gone mainstream in Korea. ---1
 plethora of data | paucity (deficiency) of data	---1
 If the bank is boring, then the bond department is straight-up comatose. ---1
-in a rut	---1
 You should take it with a grain of salt. ---1
 The supreme power governing the world is *devoid of* interests and biases, and therefore it is *unconcerned with* the mundane desires, cares and worries of human. 	---1
 He totally snubbed us---1
@@ -140,7 +139,6 @@ seductive ~ mesmerizing ---1
 hammer out: to create a solution or agreement to a problem ---1
 be laser focues on ---1
 We recounted for two-hours the litany of second dealing	---1
-idiom: have the last word in ---1
 The tag line for the ad read ---1
 Its profit margin would make you salivate ---1
 It is a well-thought-out idea ---1
@@ -160,7 +158,6 @@ When thinking about the things you really want, it *pays* to think of their rela
 Incorrigible ---2
 incipient ---2
 They fueled an ineffaceable admiration for the eclectic and eccentric statesman ---2
-It is why we went through incredilbe lengths to find talents.---2
 Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---2
 vagary of weather---2
 untenable---2
@@ -171,11 +168,10 @@ cachet---2
 a abiding hobby/passion | I cannot abide to go back to square one---2
 My concentration was so complete that I lost the awareness of my surrounding.---2
 The angry audience walked out en masse---2
-He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example---2
+He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example---3
 angst---2
 Bottom out---2
 engender = beget: cause or give rise to---2
-we can now find the needle in haystack with incredible ease---2
 Never raise your flag for a asinine [proun] cause like slavery---2
 Sow the seed for a digital age that will blossom a hindered years later.---2
 dissmulate---2
