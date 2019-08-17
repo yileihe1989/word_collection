@@ -19,11 +19,9 @@ I am angry, but I just don't think any reason to make a big spectacle of myself.
 evidently == obviously ---0
 In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	---0
 accolade ---0
-inveterate	---0
 He has done many things right to put himself in the position to succeed. You can not take away one by only recognizing the other	---0
 I think he encapsulated two of the characteristics for a succesful crime lord.	---0
 Insatiable curiosity ---0
-A drop in house price of 5 per cent would cut supply, as sellers withdraw homes from the market and try to ride it out. ---0
 The arduous working condition ---0
 Everybody is looking out for number one. Survival of the fittest. Tooth and claw. Elbow the other guy out of the way. ---0
 persist against all odds | beating these tough odds | the random events did not go our way	---0
@@ -35,7 +33,6 @@ She is young, she is brilliant, she is *going places*	---0
 deliberation: after much deliberation we arrived at a compromise|It is a deliberate choice ---0
 stop icing me out ---0
 exasperate ---0
-He lashed out at a cab diver. ---0
 makeshift ---0
 Hard problem in academic is a *euphemism* for impossible. ---0
 All we have from the Opposition is overblown rhetoric. ---0
@@ -49,7 +46,6 @@ Commodities, which were considered obscure stepchild of the Wall Street brokerag
 the concept is way over my head ---0
 discern ---0
 intractable:out of control, hard to manage. ---0
-make sure the technology mesh with human world.	---0
 hem and haw ---0
 How do you sleep at night when you are knowhing these risk is imminent.	---0
 How can clothing and nutrition become so *deficient* in the land of opportunity. ---0
@@ -97,38 +93,34 @@ nothing is written in stone ---0
 We are implementing a time-bound cap as a backstop for potentially viral content ---0
 He hired you, and I sort of rubber-stamped it. (approve) ---0
 I think this would be awkward for you, so I *come by* to discuss with you ---0
+Never doubt that a small group of thoughtful citizens can change the world. Indeed, it is the only thing that *ever* has. ---0
+A company wide email will serve the purpose ---0
 That joke is nice, but I think I can top that ---1
 The fugus is on a rampage ---1
 The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
-price is tumbling ---1
 intransigence	---1
 the mobile pay has gone mainstream in Korea. ---1
 plethora of data | paucity (deficiency) of data	---1
 If the bank is boring, then the bond department is straight-up comatose. ---1
-You should take it with a grain of salt. ---1
 He totally snubbed us---1
 The syndicate of crime is not set up in a haphazrd fashion. ---1
-distinctive personality	 ---2
 prodigious ---1
 The team was on a roll. (experiencing a particularly successful period, without any setback or low points) ---1
 know the equipment inside and out	---1
 If you are reusing the same graph over and over, then this potentially costly up-front optimization can be amortised as the same graph is rerun over and over.	---1
 Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	---1
-Avinash Kaushik, digital marketing evangelist at Google, warns that trying to get website users to see as many ads as possible naturally *devolves* into trying to *cram* sites with ads. ---1
 modulate your expectation ---1
 eschew 	---1
 idiom: bread and butter: main source of income	---1
 *cocooned* in their groupthink, experts do not always know their best	---1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. ---1
 a handsome profit	---1
-The investors will be asked to shoulder big investments and hefy losses for the time being.	---1
 The exaggerated hopes they have aroused will *evaporate* quickly. ---1
 I cannot abide falling back to *square one* ---1
 I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. ---1
 sleep a wink ---1
 I remembered being struck that a company as smart as Toyota could act in a way that ran so counter to one of its deepest cultural value. ---1
 A *dichotomy* that will only *reinforce* the achievement gap that already exists in our nation. ---1
-To put things in context ---1
 decorum = etiquette	---1
 the tension *ratcheted up*	---1
 reject swirling rumors of his *impending* departure ---1
@@ -147,7 +139,7 @@ paragon/paradigm---1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) ---1
 spot-on comment	---1
 lopsided = crooked ---1
-The tag line for the ad read ---2
+distinctive personality	 ---2
 pillage = plunder vs squander (squander the opportunity) ---2
 Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---2
 Let's get a couple of movies under our belt first ---2
@@ -186,7 +178,7 @@ I have to give this speech three times before it finally *sunk in*.---2
 He is not supposed to *register* emotion.---2
 The club has been under a great deal of unfair scrutiny lately---2
 He opted to become a living lesson in compouding, eschewing frivolous expenditures that might sap the power of his example---3
-We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.---3
+We are travellign up to a winding canyon road with a steep cliff immediately to our right and no guardrail.---4
 The unrivalled ability---3
 We estimate that four-year undergraduate degree will cost in the ballpark $57,000 |  Doctor Adams pointed out that it cost about an underestimate, maybe, but in the right ballpark.---3
 Work up to your capability---3
