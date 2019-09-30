@@ -1,14 +1,16 @@
+She gathered her composure ---0
+throw a monkey wrench into things ---0
+Renege on a promise ---0
+The pronunciations of English just throw me off ---0
 Apprehensive ---0
 There is a lot of heart and effort goes into this things ---0
 The old mail box is shoddy, whoever put it in didn't anchor the pole correctly. The mail man is complaing about the wiggle. ---0
-I feel like you are not using me towards full potential ---0
 You said the word, Mrs Underwood, and now you are trying backpedal your way out of it. ---0
 And there is one other thing add to this, and here is this. ---0
 I have seen massive strides in your generation when it comes to civility. ---0
 What happens next day put into the perspective the relative trivial trials and tribulations of life at a risky start-up. ---0
 Mom is crazy, could you talk some sense into her? ---0
 Gloss over many details ---0
-When scheduled a interview, please *allow for enough time for a physical copy* to reach you. ---0
 The system caches successful actions and skips actions that have a cache hit thereafter. ---0
 I can completely understand where you are coming from. ---0
 Please on the lookout for this information. ---0
@@ -40,22 +42,16 @@ The arduous working condition ---0
 persist against all odds | beating these tough odds | the random events did not go our way	---0
 perpetrate	---0
 unnerve	---0
-We don't have to *put up with* this.	---0
 exasperate ---0
 makeshift ---0
 All we have from the Opposition is overblown rhetoric. ---0
 Your pronuncation starts to "slip" while you ar tired ---0
-cajole sb into doing ---0
-But even if the fiasco never *materialises*, the prospect is causing damage today.| Client in prospect	---0
-Something *worked to* our mutual advantage.(Ray Dalio P24) ---0
 The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it. ---0
 Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. ---0
 the concept is way over my head ---0
-discern ---0
 intractable:out of control, hard to manage. ---0
 hem and haw ---0
 How do you sleep at night when you are knowhing these risk is imminent.	---0
-How can clothing and nutrition become so *deficient* in the land of opportunity. ---0
 kooky idea ---0
 Glitter is Robin's former best friend and co-star *from her days* performing on a Canadian kid show. ---0
 When market turns *choppier* they sell, and when turbulence *simmers down* they buy. ---0
@@ -101,7 +97,7 @@ The engineering team is ever *abuzz about* the future of machine learning; *as s
 intransigence	---1
 plethora of data | paucity (deficiency) of data	---1
 If the bank is boring, then the bond department is straight-up comatose. ---1
-He totally snubbed us---1
+He totally snubbed us---2
 The syndicate of crime is not set up in a haphazrd fashion. ---1
 prodigious ---1
 know the equipment inside and out	---1
