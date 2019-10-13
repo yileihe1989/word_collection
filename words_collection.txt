@@ -1,4 +1,3 @@
-The Where2Tech team had only come together less than two years earlier, and justas quickly they had split apart. ---0
 And there is one other things add to this, and here is this ---0
 She gathered her composure ---0
 throw a monkey wrench into things ---0
@@ -7,9 +6,12 @@ The pronunciations of English just throw me off ---0
 Apprehensive ---0
 There is a lot of heart and effort goes into this things ---0
 The old mail box is shoddy, whoever put it in didn't anchor the pole correctly. The mail man is complaing about the wiggle. ---0
+see a need, fill a need ---0
+I was hooked on the idea of ---0
+Is that actual and observable ---0
+The groups seems gathering momentum ---0
 You said the word, Mrs Underwood, and now you are trying backpedal your way out of it. ---0
 And there is one other thing add to this, and here is this. ---0
-What happens next day put into the perspective the relative trivial trials and tribulations of life at a risky start-up. ---0
 Mom is crazy, could you talk some sense into her? ---0
 Gloss over many details ---0
 The system caches successful actions and skips actions that have a cache hit thereafter. ---0
@@ -17,9 +19,7 @@ I can completely understand where you are coming from. ---0
 Please on the lookout for this information. ---0
 The penalty subsequently became the second fastest goal in Champions League final history, and left Tottenham with a mountain to climb, albeit with plenty of time left on the clock to mastermind another comback. ---0
 I am saying this, straight from my heart ---0
-There is a group of young people,  who is raising up China's sophistication and civility.  ---0
 very soon, you are going to look back at this with a fond nostalgia. ---0
-In a time when instant gratificaton is craved in all aspects of life, Warren is one of the most patient people I know. ---0
 Both candiates are qualified, but her experience tips the balance in her favour. ---0
 We had out shot, it didn't fly. So let's move on. ---0
 If you feel you can *run up* there and be in a good position, then definitely hit a top spin. ---0
@@ -52,7 +52,6 @@ intractable:out of control, hard to manage. ---0
 hem and haw ---0
 How do you sleep at night when you are knowhing these risk is imminent.	---0
 kooky idea ---0
-Glitter is Robin's former best friend and co-star *from her days* performing on a Canadian kid show. ---0
 When market turns *choppier* they sell, and when turbulence *simmers down* they buy. ---0
 These items will be *fleshed out in more detail* below	---0
 eloquent: an eloquent speech => fluent or persuasive in speaking or writing ---0
@@ -71,7 +70,6 @@ immutable law/I learned one immutable truth ---0
 We still have misgiving about the way the campaign is run ---0
 brows furrow---0
 He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. ---0
-As the litigation *dragged on* into the fall ---0
 Despite theoretically it is possible, but the devil is always in the detail ---0
 like day and night ---0
 over the top | overblown ---0
@@ -93,7 +91,6 @@ The engineering team is ever *abuzz about* the future of machine learning; *as s
 intransigence	---1
 plethora of data | paucity (deficiency) of data	---1
 If the bank is boring, then the bond department is straight-up comatose. ---1
-The syndicate of crime is not set up in a haphazrd fashion. ---1
 know the equipment inside and out	---1
 Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	---1
 modulate your expectation ---1
@@ -112,7 +109,6 @@ We recounted for two-hours the litany of second dealing	---1
 Its profit margin would make you salivate ---1
 whereas the cost of his car is less evident(replace obvious) and can be *put out of mind* ---1
 Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller. ---1
-The culprit will be hard to *pin down*	---1
 paragon/paradigm---1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) ---1
 lopsided = crooked ---1
@@ -132,7 +128,6 @@ vagary of weather---2
 untenable---2
 He was chastened by his team's defeat---2
 Before Ed Thorp, mathematician of gambling has their love of chance largely unrequited.---2
-He is discerning and rigorous in this analysis of each pieces|discern---2
 cachet---2
 a abiding hobby/passion | I cannot abide to go back to square one---2
 My concentration was so complete that I lost the awareness of my surrounding.---2
