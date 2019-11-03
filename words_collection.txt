@@ -1,3 +1,8 @@
+This group seems gathering momentum ---0
+lopsided = crooked --- 1
+over the top = overblown (overblown rhetoric) --- 0
+They have done enough damage on glorifying and *glossing over* such misbehaviour, lionizing perpetrators and making excuses for them. ---0
+The old mail box is pretty shoddy, whoever put it in didn't achor the pole correctly. The mail man is complaining about the wiggle. ---0
 And there is one other things add to this, and here is this ---0
 She gathered her composure ---0
 throw a monkey wrench into things ---0
@@ -28,7 +33,6 @@ Give us a lot of wiggle room ---0
 While chinese economic is starting to slow, the trend is already *underway* before Trump was elected ---0
 Let's *table this* for now, and discuss the impact on mother ---0
 step-change impact ---0
-In our conversations, we explore the ins and outs of Spiral, including how the system works,... ---0
 He had just pulbsihed his first cookbook, a massive thing called The Food Lab, which went on to win a reward. ---0
 The world will change, for better or worse. ---0
 I was doing that *a moment ago* ---0
@@ -38,15 +42,13 @@ accolade ---0
 I think he encapsulated two of the characteristics for a succesful crime lord.	---0
 Insatiable curiosity ---0
 The arduous working condition ---0
-persist against all odds | beating these tough odds | the random events did not go our way	---0
 perpetrate	---0
 unnerve	---0
 exasperate ---0
 makeshift ---0
-All we have from the Opposition is overblown rhetoric. ---0
 Your pronuncation starts to "slip" while you ar tired ---0
 The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it. ---0
-Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. ---0
+Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. ---1
 the concept is way over my head ---0
 intractable:out of control, hard to manage. ---0
 hem and haw ---0
@@ -72,7 +74,6 @@ brows furrow---0
 He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. ---0
 Despite theoretically it is possible, but the devil is always in the detail ---0
 like day and night ---0
-over the top | overblown ---0
 The laywer weren't of much help when you asked them. ---0
 It was an old trick that astute Wall Street analysts versed in corporate *sleights of hands* *saw right through*. ---0
 If there was a collateral damage on her way to riches, so be it ---0
@@ -85,12 +86,12 @@ He hired you, and I sort of rubber-stamped it. (approve) ---0
 I think this would be awkward for you, so I *come by* to discuss with you ---0
 Never doubt that a small group of thoughtful citizens can change the world. Indeed, it is the only thing that *ever* has. ---0
 A company wide email will serve the purpose ---0
+Maybe you could listen instead of grandstanding. ---1
 I am so sorry if I overstepped my bounds	---1
 That joke is nice, but I think I can top that ---1
 The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
 intransigence	---1
 plethora of data | paucity (deficiency) of data	---1
-If the bank is boring, then the bond department is straight-up comatose. ---1
 know the equipment inside and out	---1
 Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	---1
 modulate your expectation ---1
@@ -99,7 +100,6 @@ idiom: bread and butter: main source of income	---1
 With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. ---1
 The exaggerated hopes they have aroused will *evaporate* quickly. ---1
 I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. ---1
-sleep a wink ---1
 A *dichotomy* that will only *reinforce* the achievement gap that already exists in our nation. ---1
 decorum = etiquette	---1
 imminent vs emminent ---1
@@ -111,7 +111,6 @@ whereas the cost of his car is less evident(replace obvious) and can be *put out
 Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller. ---1
 paragon/paradigm---1
 Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) ---1
-lopsided = crooked ---1
 He totally snubbed us---2
 *cocooned* in their groupthink, experts do not always know their best	---2
 I cannot abide falling back to *square one* ---2
@@ -135,7 +134,6 @@ The angry audience walked out en masse---2
 angst---2
 Bottom out---2
 engender = beget: cause or give rise to---2
-Never raise your flag for a asinine [proun] cause like slavery---2
 dissmulate---2
 egregious---2
 I would preach the practical value of regular maintenance till I am hoarse and it would make not a dent in him---2

@@ -55,7 +55,7 @@ def execute_learning(words_collection,end_point):
             reviewed.add(curr_index)
             ## TODO: add delete word option
             ifdelete = input("If Delete:")
-            if ifdelete in ['Y', 'y', "", "yes"]:
+            if ifdelete in ['Y', 'y', "yes"]:
             	_ = words_collection.pop(curr_index)
             ifcont = input("If Continue?")
         else:
