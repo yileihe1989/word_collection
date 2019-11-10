@@ -1,144 +1,35 @@
-This group seems gathering momentum ---0
-lopsided = crooked --- 1
-over the top = overblown (overblown rhetoric) --- 0
+This group seems gathering momentum ---1
+over the top = overblown (overblown rhetoric) ---1
 They have done enough damage on glorifying and *glossing over* such misbehaviour, lionizing perpetrators and making excuses for them. ---0
-The old mail box is pretty shoddy, whoever put it in didn't achor the pole correctly. The mail man is complaining about the wiggle. ---0
-And there is one other things add to this, and here is this ---0
-She gathered her composure ---0
-throw a monkey wrench into things ---0
-Renege on a promise ---0
-The pronunciations of English just throw me off ---0
-Apprehensive ---0
-There is a lot of heart and effort goes into this things ---0
-The old mail box is shoddy, whoever put it in didn't anchor the pole correctly. The mail man is complaing about the wiggle. ---0
-see a need, fill a need ---0
-I was hooked on the idea of ---0
-Is that actual and observable ---0
-The groups seems gathering momentum ---0
-You said the word, Mrs Underwood, and now you are trying backpedal your way out of it. ---0
-And there is one other thing add to this, and here is this. ---0
-Mom is crazy, could you talk some sense into her? ---0
-Gloss over many details ---0
-The system caches successful actions and skips actions that have a cache hit thereafter. ---0
-I can completely understand where you are coming from. ---0
-Please on the lookout for this information. ---0
-The penalty subsequently became the second fastest goal in Champions League final history, and left Tottenham with a mountain to climb, albeit with plenty of time left on the clock to mastermind another comback. ---0
-I am saying this, straight from my heart ---0
-very soon, you are going to look back at this with a fond nostalgia. ---0
-Both candiates are qualified, but her experience tips the balance in her favour. ---0
-We had out shot, it didn't fly. So let's move on. ---0
-If you feel you can *run up* there and be in a good position, then definitely hit a top spin. ---0
-Something has been eating at me the whole trip ---0
-Give us a lot of wiggle room ---0
-While chinese economic is starting to slow, the trend is already *underway* before Trump was elected ---0
-Let's *table this* for now, and discuss the impact on mother ---0
-step-change impact ---0
-He had just pulbsihed his first cookbook, a massive thing called The Food Lab, which went on to win a reward. ---0
-The world will change, for better or worse. ---0
-I was doing that *a moment ago* ---0
-detractor (not betray) ---0
-In the short run, *gazing at all* this perfection (ads, billboards) gives us *a short hit of dopamin*, a chance to imagine what it might be like. Over time, though, the *grinding* inadquency caused by the marketing machine *wear us down*. | secretion of dopamin	---0
-accolade ---0
-I think he encapsulated two of the characteristics for a succesful crime lord.	---0
-Insatiable curiosity ---0
-The arduous working condition ---0
-perpetrate	---0
-unnerve	---0
-exasperate ---0
-makeshift ---0
-Your pronuncation starts to "slip" while you ar tired ---0
-The just believe that the rules do not apply to them, and they get some sort of *visceral thrill* from *flaunting* it. ---0
-Commodities, which were considered obscure stepchild of the Wall Street brokerage industry. ---1
-the concept is way over my head ---0
-intractable:out of control, hard to manage. ---0
-hem and haw ---0
-How do you sleep at night when you are knowhing these risk is imminent.	---0
-kooky idea ---0
-When market turns *choppier* they sell, and when turbulence *simmers down* they buy. ---0
-These items will be *fleshed out in more detail* below	---0
-eloquent: an eloquent speech => fluent or persuasive in speaking or writing ---0
-All great investors and investment have *bad patches*; losing faith in them at such times is as common a mistake as getting too enamored of them	---0
-I took his advice to heart as I set out to improve Bridgewater's governance model ---0
-The printing business has been Orville's idea from the start ---0
-My own values made me unwilling to *grovel* and tell lies, despite my personal stake ---0
-imper'turbable (Pronun)	---0
-toss our *far-out* ideas	---0
-quintessential ---0
-Old theories were debunked ---0
-Jack Ma has *ruffled feathers* with his high profile.|Don't let her ruffle your feathers. ---0
-We think of young as *stereotypically fickle*, the old, *stereotypically set in their ways*. In fact, both are behaving completely appropriate * with respect to* their interval. ---0
-But some didn't understand the struggle and risk that success had entailed ---0
-immutable law/I learned one immutable truth ---0
-We still have misgiving about the way the campaign is run ---0
-brows furrow---0
-He and his brothers would always *stand as an example* of how far Americans with no special advantage could advance in the world. ---0
-Despite theoretically it is possible, but the devil is always in the detail ---0
-like day and night ---0
-The laywer weren't of much help when you asked them. ---0
-It was an old trick that astute Wall Street analysts versed in corporate *sleights of hands* *saw right through*. ---0
-If there was a collateral damage on her way to riches, so be it ---0
-They fell off the cliff a couple of times ---0
-In his inimitable pugnacious book ---0
-As your ball is dropping, it is picking up speed. It is going fast through your hitting zone. ---0
-nothing is written in stone ---0
-We are implementing a time-bound cap as a backstop for potentially viral content ---0
-He hired you, and I sort of rubber-stamped it. (approve) ---0
-I think this would be awkward for you, so I *come by* to discuss with you ---0
-Never doubt that a small group of thoughtful citizens can change the world. Indeed, it is the only thing that *ever* has. ---0
-A company wide email will serve the purpose ---0
-Maybe you could listen instead of grandstanding. ---1
-I am so sorry if I overstepped my bounds	---1
-That joke is nice, but I think I can top that ---1
-The engineering team is ever *abuzz about* the future of machine learning; *as such* the research paper *has made its rounds* on Hacker News and Reddit. ---1
-intransigence	---1
-plethora of data | paucity (deficiency) of data	---1
-know the equipment inside and out	---1
-Though most everything seemed inevitable and logical *in retrospect*, nothing was nearly as clear *in real time*. 	---1
-modulate your expectation ---1
-eschew 	---1
-idiom: bread and butter: main source of income	---1
-With time, I believe the truth always wins out in the public marekt, *as has been the case* for Apple, Amazon and other companies with visionary leaders. ---1
-The exaggerated hopes they have aroused will *evaporate* quickly. ---1
-I am trying to *stay up on thing*, the rules are changing all the time. With everthing that is happened with Enron and Worldcom, the government is extra vigilant. ---1
-A *dichotomy* that will only *reinforce* the achievement gap that already exists in our nation. ---1
-decorum = etiquette	---1
-imminent vs emminent ---1
-seductive ~ mesmerizing ---1
-hammer out: to create a solution or agreement to a problem ---1
-We recounted for two-hours the litany of second dealing	---1
-Its profit margin would make you salivate ---1
-whereas the cost of his car is less evident(replace obvious) and can be *put out of mind* ---1
-Other times, I have imagined my feet on either side of one of those balanced boards moves atop a cylindrical roller. ---1
-paragon/paradigm---1
-Some scholars tried to exonerate our species, placing the blame on the vagaries of climates. (The usual scapegoat in such cases) ---1
-He totally snubbed us---2
-*cocooned* in their groupthink, experts do not always know their best	---2
-I cannot abide falling back to *square one* ---2
-distinctive personality	 ---2
-pillage = plunder vs squander (squander the opportunity) ---2
-Such grandiose forecast kindles anxity as well as hope (negative, similar to pretentious)	---2
+cast blames ---0
+Now on a daily basis, they got to challenge one and the other. ---0
+So here is my line of thinking. ---0
+And this metric is beholden to upstream changes that impacts reactive workload. ---0
+If the legendary martial artist were alive today, he *may well wanted to* tweak his maxim by adding one caveat. ---1
+lopsided = crooked ---1
+The old mail box is pretty cast kindles anxity as well as hope (negative, similar to pretentious) ---2
 Let's get a couple of movies under our belt first ---2
 When thinking about the things you really want, it *pays* to think of their relative values so you weigh them properly. ---2
 Incorrigible ---2
 incipient ---2
-They fueled an ineffaceable admiration for the eclectic and eccentric statesman ---2
+They fueled an ineffaceable admiration for the eclectic and eccentric statesman ---3
 Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---2
 vagary of weather---2
-untenable---2
-He was chastened by his team's defeat---2
+untenable---3
+He was chastened by his team's defeat---3
 Before Ed Thorp, mathematician of gambling has their love of chance largely unrequited.---2
 cachet---2
 a abiding hobby/passion | I cannot abide to go back to square one---2
 My concentration was so complete that I lost the awareness of my surrounding.---2
 The angry audience walked out en masse---2
-angst---2
+angst---3
 Bottom out---2
 engender = beget: cause or give rise to---2
 dissmulate---2
 egregious---2
-I would preach the practical value of regular maintenance till I am hoarse and it would make not a dent in him---2
+I would preach the practical value of regular maintenance till I am hoarse and it would make not a dent in him---3
 Before I gave my talk at the meeting, I hadn't envisaged the clamor and the sortof publicity that would follow.---2
-He hoped to parlay his basketball skills into a college scholarship/ He has parlayed these attributes into great success/ parlay machine learning into investing---2
+He hoped to parlay his basketball skills into a college scholarship/ He has parlayed these attributes into great success/ parlay machine learning into investing---3
 marketing gimmick---2
 be of immediate practical use---2
 vicarious ---2
