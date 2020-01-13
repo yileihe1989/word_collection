@@ -53,10 +53,10 @@ def execute_learning(words_collection,end_point):
             print (textwrap.fill(words_collection[curr_index][0]))
             words_collection[curr_index][1] += 1
             reviewed.add(curr_index)
-            ifdelete = raw_input("If Delete:")
+            ifdelete = input("If Delete:")
             if ifdelete in ['Y', 'y', 'yes']:
             	_ = words_collection.pop(curr_index)
-            ifcont = raw_input("If Continue?")
+            ifcont = input("If Continue?")
         else:
             continue
     print("Total sentences reviewed today is {}".format(len(reviewed)))
