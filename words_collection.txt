@@ -1,3 +1,7 @@
+You know, before the lockdown I sort of share my four priorities and they haven't changed *in the time since*. ---1
+At some point, if everyone you meet smells like poop, maybe check under your shoes. ---0
+They beat us in the end, but we went down swinging. ---0
+To be clear, I am making this case in all of infra not just IDS, this is something I am seeing more and more of where people are afraid to say no hire either because they want to be nice or don't want to *take a stand* rather would like to *sit on the fence* and "Hire - low confidence" is an easy way out. ---0
 What Deb does, she put her head down and she execute. The product speak for itself and all the criticism falls away. ---0
 You will be liberated to accomplish the world-changing work you have been *set out to* achieve. ---0
 the ego sucks us down like the law of gravity. ---0
@@ -10,7 +14,7 @@ I have a few ideas for how we might deal with these groups. None of these is a f
 We are talking about this early on. ---0
 This group has suffered a mission drift. ---0
 And I think I had a reasonable understanding of ... ---0
-He is enthusiastic about my expectation so I just kind of ran with it. ---0
+He is enthusiastic about my expectation so I just kind of ran with it. ---1
 I acknowledge that hte process is not right. Totally hear your feedback and I completely echo your frustration. ---0
 This group has suffered a mission drift. ---0
 Apologies if the post is a bit rambly, but I wanted to put down my thoughts in one referencable place and hope it can help with coordinating a discussion around this. ---0
@@ -22,14 +26,14 @@ Oil, it has been said, is the blood coursing through the veins of economy. ---0
 This attacks are driven by motivated attackers probing our system. ---0
 We are now months into this pandemic that has brought the world to its knees. ---0
 The new cases are rising sharply as you can see here. ---0
-It is 24 hour short-notice thing. ---0
+It is 24 hour short-notice thing. ---1
 jabbing his fingers at protests ---0
 (context: in the chat)Sorry Jeff didn't see you were added here, didn't mean to speak for you. ---0
 I left a lot of details in my retelling of you just now. Conveniently omitted were the stress and temptations. ---0
 hit rock bottom ---0
 The Worst-of-the-Worst work that the Hate team is now productionizing is proof of this, I'm hugely proud of that and I don't *seek to diminish it in any way*. ---0
 You should know this better than me since it is your jurisdiction. ---0
-Maybe from UI side, Nishit can speak to that. ---0
+Maybe from UI side, Nishit can speak to that. ---1
 I don't know what is going on there, that will be a good conversation to have. ---0
 It was a big decision for me. I decided to *go for it* because I have always enjoyed leadership roles. ---0
 It would be hard to scare up 10 people to attend this meeting. ---0
@@ -45,19 +49,18 @@ Fascinating - for my edification - any old post to read on details on GT? ---0
 What Zhang could, would, or might do in the future is a rabbit hole of what-ifs and unanswerable questions. ---0
 At the very least, SDI should sign off the proposal.---0
 It would be good to check in at the end of Q3 and see what we can go from there. ---0
-What is the right way to do it if we start from scratch ---1
 I will defer to you all on bandwidth. But I would rather push back the IFC review to when we can do it properly and not feel crunched. ---0
 I try to put together a complete list. But if I just rattle off the name, it will sound like a alphabet soup. ---0
 The idea is running out of steam ---0
 ludicrous ---0
 opportunity size ---0
-*For the reasons above*, your ask is implicitly creating a new dependency and a contract between our teams. What is your expectations for this contract? ---0
+*For the reasons above*, your ask is implicitly creating a new dependency and a contract between our teams. What is your expectations for this contract? ---1
 We want our company to be spoken in the same breath as the greatest names in our industry. ---0
 There was something odd about the situation, to say the least. ---0
 Although Covid-10 set us back due to reviewer capacity loss. ---0
 There are faults in every single one of them. ---0
 The two, of course, would be joined at the hip. ---0
-If you were to do something ---0
+If you were to do something ---1
 While I can't be sure that I have the formula for what makes the world's greatest empires and their markets rise and fall exactly right, I am confident that I got it by-and-large right. ---0
 I just realiszed how blessed this country is to have a leader *for the moment in time.* ---0
 It is important that we set up the right relationship with the right framing, and for more than one reason. ---0
@@ -66,6 +69,7 @@ We have the critical mass of people to make it useful ---0
 The analysis of this issue is ongoing, and these results are provisional. ---0
 Rein in govenment spending. ---0
 What is your reckoning on that ---0
+What is the right way to do it if we start from scratch ---1
 It is clear that bad seeds are a huge problem. In fact, I would go ahead and assert that they are the single largest source of matching false positives. ---1
 the term is overloaded ---1
 I think that's where SDI's responsibility ends until all the diverse customer teams align their platforms. SDI can't be expected to build 17 different niche implementations. ---1
@@ -74,9 +78,8 @@ You know, last week I was walking down the street, and *there was this homeless 
 This sort of thing usually fizzles out. ---1
 We are approaching the tail end of Phase A "getting out of risk", with most high-priority problems having at least some defense - although we are continuing add new problems due to external developments. ---1
 When you scale up the ml model, you will have this *occasional* errors. ---1
-I am really afraid that we are going to back ourselves into the corners by framing the problem this way. ---1
+I am really afraid that we are going to back ourselves into the corners by framing the problem this way. ---2
 Do you have an offical deadline yet or is it still in the air for mid August? ---1
-cotton on ---2
 There is no need to surgically attribute only impact that landed in June. ---1
 The top profile has 76000 against it before we disabled it. I think this speaks to the needs to set up a break-glass escalation queue for objects with high report velocity. ---1
 ovulate ---1
@@ -85,7 +88,7 @@ Yilei's attention to detail and critical thinking about the integrity matching p
 I will send that out *after* ---1
 I think we are assuming that we have a huge gap here but it's most likely not that big of a gap for forward actions. ---1
 To be fair, there hasn't been *nearly as much* interest in any of this *for the last three years combined* as the limelight it received in the last week. ---1
-What is it supposed to be in production and what deadline you are working against. ---1
+What is it supposed to be in production and what deadline you are working against. ---2
 IRV is really a good hammer to drive this fixing. ---1
 So it has been you, Raymond, all along. ---1
 I leave the facebook for whatever is worth. ---1
@@ -107,6 +110,7 @@ The summary of it is following. ---1
 But she is out of car, start pounding on the windows. I hurry over just in time to hear my wife say. ---1
 In H2, we decided to focus as a team on fewer initiatives with outsized impact. ---1
 I'd be happy to share some notes with you, so hit me up ---1
+cotton on ---2
 I gritted through the remaining distance, choking down the pain ---2
 Being drama free is a breath of fresh air in any office environment, but that goes double for your boss. ---2
 Most people don't expect to be drawn into my world so quickly, and how  they respond can be telling. ---2
@@ -126,9 +130,9 @@ It is something I have hesitance about. ---2
 The slightest change in his cadence can get his points across ---2
 Anticipate what is next to come ---2
 They can't *get hold of you* ---2
-Specifically, I want to acknowledge the following flaws. ---2
+Specifically, I want to acknowledge the following flaws. ---3
 Investor shifted from panic to optimism without missing a beat. ---2
-Pls make correction if anything is captured incorrectly. ---2
+Pls make correction if anything is captured incorrectly. ---3
 I am super bullish on Graphic Violence and I wanna tell the story in a compelling way. ---2
 It is a open question whether the results will generalize to other surfaces. ---2
 The moment was to emphasize that we have not taken our foot off the gas when it comes to overall readiness for the upcoming general election in 2020. ---2
@@ -145,7 +149,7 @@ Do you feel you created a environment where they felt comfortable to come forwar
 I have this desk shelf to elevate my monitor and use this vertical dock for my MacBook Pro. ---2
 I would go out on a limb and saying none of you have actually been upset. ---2
 The camps must be dismantle, too, must Xinjiang's apartheid-like system, epitomized by its main Han enclaves. ---2
-There is no single path, and to mimic another person's path is folly: everyone blazes their own trail, though there are some patterns to how they do so. ---2
+There is no single path, and to mimic another person's path is folly: everyone blazes their own trail, though there are some patterns to how they do so. ---3
 Add a *hot take* to the rejected pair thread ---2
 Can I get a double check on the number? ---2
 So it doesn't overrun the hospital. ---2
@@ -157,7 +161,7 @@ And for almost a year, by its own hand, America's best companies have been froze
 There is many assumption about America before I came here and I had come to learn that many of those are wrong. For one, I assumed people are speaking English here. ---2
 The N&P team has *blazed the trail* on this front *with* human review close down well over 50% *year to date*. ---2
 One last thing I wanna say is I am just being blown away by how quickly you guys have been responded to it. You guys really crushed it. I really appreciate your guys' hard work. ---2
-Once upon a time, I got this request to investigate... ---2
+Once upon a time, I got this request to investigate... ---3
 flout laws ---2
 We are taking a short cut approach to directly integrate ODNA with misinfo and creating a tech debt that would require engineer effort later half to integrate with MMS. ---2
 And I am telling you, at any moment he is going to come through that door. ---2
@@ -168,7 +172,7 @@ But let's get the but out of the way first. ---2
 She motioned me over ---2
 People are fighting for their livelihood ---2
 Now on a daily basis, they got to challenge one and the other. ---2
-Incorrigible ---2
+Incorrigible ---3
 marketing gimmick---2
 I took the opportunity to *exert some leverage*---2
 Every company should have somebody like you to take them forward. Your all-around capabilities are in every sense awe-insipring, and I am glad to have had the pleasure of knowing you right off the bat. ---3
