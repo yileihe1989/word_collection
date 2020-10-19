@@ -1,6 +1,15 @@
+I think out idea is along the same line. ---0
+I am glad you did not dump it because it would be a slam-dunk case and it would be absolutely nothing that I can help you. ---0
+This had led to an execution challenge internally, on aligning and tracking efforts, and externally with increasing churn on product teams. ---0
+As out team continued to get more nuanced in the policy the slow to execution will become a new norm. ---0
+do a quick cursory review ---0
+We have to start somewhere and we moved extremely quickly to launch Reels to the Instagram community, but the goal was never to get to immediate parity with any competitor out of gate. ---0
+I am trying to temper my expectation a little given Nishit's learning with CR-based evaluation, but do expect win. ---0
+For SWE, if you are good at Leetcode most interviews are a breeze ---1
+The long term of costs outweight the benefit gained of banning one competitor today. ---0
+If you're skeptical keep in mind that most of the people who use Instagram are outside the US, *as is* most of the potential growth. ---0
 do you think you guys already have enough rigor yet in showing the data to outsides. ---0
 keep that at the top of my mind ---0
-I would *have liked this* to happen soon as well, too many moving parts at this point. ---1
 go elsewhere (replace somewhere else) ---0
 They didn't know, he could have known. ---0
 The first thing we focused on is Bitcoin, that is what got us off the ground ---0
@@ -29,12 +38,10 @@ pass the buck ---0
 At some point, if everyone you meet smells like poop, maybe check under your shoes. ---0
 They beat us in the end, but we went down swinging. ---0
 To be clear, I am making this case in all of infra not just IDS, this is something I am seeing more and more of where people are afraid to say no hire either because they want to be nice or don't want to *take a stand* rather would like to *sit on the fence* and "Hire - low confidence" is an easy way out. ---0
-What Deb does, she put her head down and she execute. The product speak for itself and all the criticism falls away. ---1
 You will be liberated to accomplish the world-changing work you have been *set out to* achieve. ---0
 the ego sucks us down like the law of gravity. ---0
-However, this model immediately *runs into the reality* that finding great growth opportunities is a rare skill that usually only comes with experience. ---1
 I think it should be handled by the utmost care and gravity. ---0
-so much of that shouldn't fall on us. ---0
+so much of that shouldn't fall on us. ---1
 So it has been you, Raymond. All along. ---0
 I will be at PTO tmw in case people want to poke at this further. ---0
 We are talking about this early on. ---0
@@ -49,7 +56,7 @@ Oil, it has been said, is the blood coursing through the veins of economy. ---0
 This attacks are driven by motivated attackers probing our system. ---0
 We are now months into this pandemic that has brought the world to its knees. ---0
 jabbing his fingers at protests ---0
-(context: in the chat)Sorry Jeff didn't see you were added here, didn't mean to speak for you. ---0
+(context: in the chat)Sorry Jeff didn't see you were added here, didn't mean to speak for you. ---1
 I left a lot of details in my retelling of you just now. Conveniently omitted were the stress and temptations. ---0
 hit rock bottom ---0
 The Worst-of-the-Worst work that the Hate team is now productionizing is proof of this, I'm hugely proud of that and I don't *seek to diminish it in any way*. ---0
@@ -76,7 +83,6 @@ I will defer to you all on bandwidth. But I would rather push back the IFC revie
 I try to put together a complete list. But if I just rattle off the name, it will sound like a alphabet soup. ---0
 The idea is running out of steam ---0
 ludicrous ---0
-We want our company to be spoken in the same breath as the greatest names in our industry. ---1
 There was something odd about the situation, to say the least. ---0
 Although Covid-10 set us back due to reviewer capacity loss. ---0
 There are faults in every single one of them. ---0
@@ -85,12 +91,22 @@ While I can't be sure that I have the formula for what makes the world's greates
 I just realiszed how blessed this country is to have a leader *for the moment in time.* ---0
 It is important that we set up the right relationship with the right framing, and for more than one reason. ---0
 I am snooping on his calendar. ---0
-We have the critical mass of people to make it useful ---0
+We have the critical mass of people to make it useful ---1
 The analysis of this issue is ongoing, and these results are provisional. ---0
 What is your reckoning on that ---0
 This has led to an execution challenge internally, on aligning and tracking efforts, and externally with increasing churn on product teams. ---0
+my 15mins meeting might go over ---0
+I would have no hesitation to extend her an offer ---0
+Nicolas and the team are in a hot seat with some election work. ---0
+paragons of rationallity ---0
+spent peanut butter jars ---0
+I think long and hard before any prosecutuin goes forward. ---0
+I would *have liked this* to happen soon as well, too many moving parts at this point. ---1
+What Deb does, she put her head down and she execute. The product speak for itself and all the criticism falls away. ---1
+However, this model immediately *runs into the reality* that finding great growth opportunities is a rare skill that usually only comes with experience. ---1
+We want our company to be spoken in the same breath as the greatest names in our industry. ---1
 You are right for the first time. You gotta go with your gut. ---1
-There is risk that you will have asymmetry when it comes to relationship ---1
+There is risk that you will have asymmetry when it comes to relationship ---2
 The app has also been independently audited, and while some faults were found, they were not out of the line with those in other apps. ---1
 (meeting)We are just about the time.Regarding IFC, I want to make sure we are reasonable about the time. ---1
 Fascinating - for my edification - any old post to read on details on GT? ---1
@@ -116,12 +132,10 @@ There is no need to surgically attribute only impact that landed in June. ---1
 ovulate ---1
 Help the leadership cut through the fog of war. ---1
 Yilei's attention to detail and critical thinking about the integrity matching problem space has made him someone whose opinion I seek out to validate new ideas ---1
-I will send that out *after* ---2
-I think we are assuming that we have a huge gap here but it's most likely not that big of a gap for forward actions. ---1
+I think we are assuming that we have a huge gap here but it's most likely not that big of a gap for forward actions. ---2
 To be fair, there hasn't been *nearly as much* interest in any of this *for the last three years combined* as the limelight it received in the last week. ---1
 IRV is really a good hammer to drive this fixing. ---1
 So it has been you, Raymond, all along. ---1
-I leave the facebook for whatever is worth. ---2
 The public sector is stting on a massive troves of data. ---1
 The only thing I can do, to the best of my ability, is presenting you the facts and evidence assoicated with what I know the best about the virus ---1
 This post really *hit home* for me. It is a really diffcult time for many of us and it manifests in a tons of ways. ---1
@@ -134,23 +148,24 @@ We are still not out of woods. ---1
 I want this discussion to be as inclusive as possible. So take this document as a start point, not as a finished proposal. ---1
 This is the plan I propose to the board and we are *moving forward* with it. ---1
 I imagine there are similar use cases in Child Safety, and potential, misinformation. So I think you'd get a lot of bang for your buck out of investing here. But I can't speak for all others so I cc'd them here. ---1
-We will still keep photomatchservice as a facade exposing the current method as is. ---1
-I am really delighted in how resilient the kids are and how well they're *taking this all in stride.* ---1
-The summary of it is following. ---2
+We will still keep photomatchservice as a facade exposing the current method as is. ---2
+I am really delighted in how resilient the kids are and how well they're *taking this all in stride.* ---0
 But she is out of car, start pounding on the windows. I hurry over just in time to hear my wife say. ---1
 I'd be happy to share some notes with you, so hit me up ---1
+I will send that out *after* ---3
+I leave the facebook for whatever is worth. ---2
+The summary of it is following. ---2
 In H2, we decided to focus as a team on fewer initiatives with outsized impact. ---2
 Do you have an offical deadline yet or is it still in the air for mid August? ---2
 You know, before the lockdown I sort of share my four priorities and they haven't changed *in the time since*. ---2
 the term is overloaded ---2
-I have been bidding my time in fear. ---3
 When you scale up the ml model, you will have this *occasional* errors. ---2
 The top profile has 76000 against it before we disabled it. I think this speaks to the needs to set up a break-glass escalation queue for objects with high report velocity. ---2
 I am really afraid that we are going to back ourselves into the corners by framing the problem this way. ---2
 What is it supposed to be in production and what deadline you are working against. ---2
 cotton on ---2
 I gritted through the remaining distance, choking down the pain ---2
-Most people don't expect to be drawn into my world so quickly, and how  they respond can be telling. ---2
+Most people don't expect to be drawn into my world so quickly, and how  they respond can be telling. ---3
 The way the network has dragged their feet on closing the deal ---2
 For whatever reason, I think everyone got kicked out... ---2
 we will regularly revisit the teams' charters, reset the collabroation when necessary. ---2
@@ -166,7 +181,6 @@ The whole MMS OCR implementation has been compromised IMV in a misguided attempt
 It is something I have hesitance about. ---2
 Anticipate what is next to come ---2
 They can't *get hold of you* ---2
-Investor shifted from panic to optimism without missing a beat. ---3
 I am super bullish on Graphic Violence and I wanna tell the story in a compelling way. ---2
 It is a open question whether the results will generalize to other surfaces. ---2
 The moment was to emphasize that we have not taken our foot off the gas when it comes to overall readiness for the upcoming general election in 2020. ---2
@@ -174,15 +188,14 @@ In both teams, you can be there when history happens. So I'm confident that you 
 It had been a casual, get-to-know-you meeting. But naturally I had hoped that one day something would come of it. ---2
 Hello folks, I've just come back a few days of PTO, which *were meant to be* spent in St.Lucia on a beach, but ended up being a few days at home. ---2
 She is a strong women, but she nearly went to pieces when Arine died. ---2
-So here is my line of thinking. ---3
 I have come around to why you lied. ---2
 The sooner we can help them get under the control, the better for the world. ---2
 Do you feel you created a environment where they felt comfortable to come forward. ---2
 I have this desk shelf to elevate my monitor and use this vertical dock for my MacBook Pro. ---2
 I would go out on a limb and saying none of you have actually been upset. ---2
-Add a *hot take* to the rejected pair thread ---2
+Add a *hot take* to the rejected pair thread ---3
 Can I get a double check on the number? ---2
-So it doesn't overrun the hospital. ---2
+So it doesn't overrun the hospital. ---3
 I thought *that is a given* ---2
 Savoring life ---2
 Compromising is condoning ---2
@@ -199,6 +212,9 @@ But let's get the but out of the way first. ---2
 People are fighting for their livelihood ---2
 marketing gimmick---2
 I took the opportunity to *exert some leverage*---2
+I have been bidding my time in fear. ---3
+Investor shifted from panic to optimism without missing a beat. ---3
+So here is my line of thinking. ---3
 She motioned me over ---3
 The slightest change in his cadence can get his points across ---3
 This is one thing for you to get yourself ahead. ---3
@@ -219,19 +235,19 @@ It is not newly cases, it is newly admitted cases. The real situaion can be seve
 The circumstances has changed ---3
 In an attemp to stave off shortage ---3
 plug away at something ---3
-Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---3
+Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---4
 Call those *dumpster fires* out without fear of ego bruising. ---3
 I will help us stay the course since long term matters and staying focused now is important. ---3
 And unified sampling maximize the sampling overlap that comes for free. ---3
 One way to think about that. As you are finishing up something, you can start priotiizing and planing for what you are going to do next. ---3
 H1 2020 is *well underway here*, it is already *shaping up to be* a monster year for the RM team. The now 30-person RM product team is working toward a ambitious set of goals that well *set up the product* not only for solid A17 compliance, but for success well beyond. ---3
 We would bring along musicians, singers, flutes, the whole shebang. ---3
-In a month from now ---3
+In a month from now ---4
 xenophobic fear-mongering ---3
 Will you draw a line on the ownership of banks. ---3
 It is a time sink. ---3
 The little dust-up with Chinese makes us stronger. ---3
-cachet---3
+cachet---4
 I fend a lot of stupid people hide behind big words and flowery vocabulary, and a lot of smart people aren't afriad to use basic languages to get their ideas across in an easy to understand way. ---3
 I cannot even begin to express how thrilled I am ---3
 Tweaking rules in favor of engagement with Huawei is politically unpalatable, even when the engagement is in forums as innocuous and dull as standard bodies. ---3
@@ -246,7 +262,7 @@ My father kept a straight face when he joked. ---3
 He knows something is wrong with you so he pressed me. ---3
 Both of them has *some wobble to them*. And it is most noticeable with the most flexible objects such as monitors. ---3
 There is a lot of heart and effort goes into this things. ---3
-incipient ---3
+incipient ---4
 But I do believe these are important questions that weigh into the legitimacy of what we are doing. ---3
 And this metric is beholden to upstream changes that impacts reactive workload. ---3
 They have done enough damage on glorifying and *glossing over* such misbehaviour, lionizing perpetrators and making excuses for them. ---3
@@ -257,7 +273,7 @@ I have *taken a stab* at drawing up an agenda for next week's offsite. ---3
 If the legendary martial artist were alive today, he *may well wanted to* tweak his maxim by adding one caveat. ---3
 Bottom out---3
 You have got a lot of edge going for you---3
-vagary of weather---3
+vagary of weather---4
 The angry audience walked out en masse---3
 egregious---3
 My concentration was so complete that I lost the awareness of my surrounding.---3
