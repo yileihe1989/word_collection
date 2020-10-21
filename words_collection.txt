@@ -1,7 +1,16 @@
-TC shows spotty knowledge in hypothesis testing. --- 0
-Last year you played Novak in this court and he beats you three straight sets. --- 0
-Very little fluff was given in the answer and the candidate always tries to ensure the answer was sufficient. --- 0
-Is this something we should nudge them to do this. --- 0
+TC shows spotty knowledge in hypothesis testing. ---0
+It is not a class action, you should get your facts straight. ---0
+We are *erring too far on the side of* allowing groups to become homes for hateful content in the comments. ---0
+You should *seed out* to experts and *knock down your illusion* about yourself. ---0
+argue in our favour ---0
+The other issue *with* it is consumer privacy issue. We are *seeing this issue with* Equifax being hacked and a lot of people's data is leaked out there. ---1
+The 2018 is really the year that we *bend the curve* of headcount. ---0
+Last time we had a discussion over bank coverage. Kind of want to have a check on where landed on that. ---0
+It wasn't my strong suit. ---0
+It may not reflect well on me for having missed something, but it is certainly better than being seen as possibly dishonest. ---0
+Last year you played Novak in this court and he beats you three straight sets. ---0
+Very little fluff was given in the answer and the candidate always tries to ensure the answer was sufficient. ---0
+Is this something we should nudge them to do this. ---0
 I think out idea is along the same line. ---0
 I am glad you did not dump it because it would be a slam-dunk case and it would be absolutely nothing that I can help you. ---0
 This had led to an execution challenge internally, on aligning and tracking efforts, and externally with increasing churn on product teams. ---0
@@ -9,7 +18,6 @@ As out team continued to get more nuanced in the policy the slow to execution wi
 do a quick cursory review ---0
 We have to start somewhere and we moved extremely quickly to launch Reels to the Instagram community, but the goal was never to get to immediate parity with any competitor out of gate. ---0
 I am trying to temper my expectation a little given Nishit's learning with CR-based evaluation, but do expect win. ---0
-For SWE, if you are good at Leetcode most interviews are a breeze ---1
 The long term of costs outweight the benefit gained of banning one competitor today. ---0
 If you're skeptical keep in mind that most of the people who use Instagram are outside the US, *as is* most of the potential growth. ---0
 do you think you guys already have enough rigor yet in showing the data to outsides. ---0
@@ -17,7 +25,7 @@ keep that at the top of my mind ---0
 go elsewhere (replace somewhere else) ---0
 They didn't know, he could have known. ---0
 The first thing we focused on is Bitcoin, that is what got us off the ground ---0
-Since we do not know if it'd be high risk, we *err on the side of T1* if it mees the viral threshold ---0
+Since we do not know if it'd be high risk, we *err on the side of T1* if it mees the viral threshold ---1
 be straight with your message ---0
 I don't need you to stick it up for me. ---0
 Just when you think there is no more twisting and turns. ---0
@@ -28,7 +36,7 @@ out-of-box usability ---0
 jump the gun ---0
 My suggestion is increasing sampling rate to 1%. Why? It is a nice round number and will provide a decent bump to metric resolution. ---0
 power through the objections. ---0
-The AR/VR name has served us well these past few years but we have *overgrown* it with our scope in wearables and the future of work, and there were areas for which it was never a perfect fit like Portal. ---0
+The AR/VR name has served us well these past few years but we have *overgrown* it with our scope in wearables and the future of work, and there were areas for which it was never a perfect fit like Portal. ---1
 Under such situation, it is impossible to think one month ahead. ---0
 Let's take this opportunity up with our both hands. ---0
 Our humiliation will pale in comparision to Robinson's ---0
@@ -44,8 +52,7 @@ They beat us in the end, but we went down swinging. ---0
 To be clear, I am making this case in all of infra not just IDS, this is something I am seeing more and more of where people are afraid to say no hire either because they want to be nice or don't want to *take a stand* rather would like to *sit on the fence* and "Hire - low confidence" is an easy way out. ---0
 You will be liberated to accomplish the world-changing work you have been *set out to* achieve. ---0
 the ego sucks us down like the law of gravity. ---0
-I think it should be handled by the utmost care and gravity. ---0
-so much of that shouldn't fall on us. ---1
+I think it should be handled by the utmost care and gravity. ---1
 So it has been you, Raymond. All along. ---0
 I will be at PTO tmw in case people want to poke at this further. ---0
 We are talking about this early on. ---0
@@ -60,8 +67,7 @@ Oil, it has been said, is the blood coursing through the veins of economy. ---0
 This attacks are driven by motivated attackers probing our system. ---0
 We are now months into this pandemic that has brought the world to its knees. ---0
 jabbing his fingers at protests ---0
-(context: in the chat)Sorry Jeff didn't see you were added here, didn't mean to speak for you. ---1
-I left a lot of details in my retelling of you just now. Conveniently omitted were the stress and temptations. ---0
+I left a lot of details in my retelling of you just now. Conveniently omitted were the stress and temptations. ---1
 hit rock bottom ---0
 The Worst-of-the-Worst work that the Hate team is now productionizing is proof of this, I'm hugely proud of that and I don't *seek to diminish it in any way*. ---0
 You should know this better than me since it is your jurisdiction. ---0
@@ -80,7 +86,7 @@ This is like a statue come to life. ---0
 take a leap of faith and trust them ---0
 In hindsight, that's been the easiest part of all of this. Once my kids settled into the new routines, and their school figured out new technology to enable effective learning, that piece of this new normal actually becomes our saving grace[the redeeming factor]. ---0
 What was most striking about that visit was the extent to which he was not thinking like a candidate ---0
-Maybe it is just for me, but you are breaking out a lot ---0
+Maybe it is just for me, but you are breaking out a lot ---1
 At the very least, SDI should sign off the proposal.---0
 It would be good to check in at the end of Q3 and see what we can go from there. ---0
 I will defer to you all on bandwidth. But I would rather push back the IFC review to when we can do it properly and not feel crunched. ---0
@@ -93,9 +99,8 @@ There are faults in every single one of them. ---0
 The two, of course, would be joined at the hip. ---0
 While I can't be sure that I have the formula for what makes the world's greatest empires and their markets rise and fall exactly right, I am confident that I got it by-and-large right. ---0
 I just realiszed how blessed this country is to have a leader *for the moment in time.* ---0
-It is important that we set up the right relationship with the right framing, and for more than one reason. ---0
+It is important that we set up the right relationship with the right framing, and for more than one reason. ---1
 I am snooping on his calendar. ---0
-We have the critical mass of people to make it useful ---1
 The analysis of this issue is ongoing, and these results are provisional. ---0
 What is your reckoning on that ---0
 This has led to an execution challenge internally, on aligning and tracking efforts, and externally with increasing churn on product teams. ---0
@@ -105,12 +110,16 @@ Nicolas and the team are in a hot seat with some election work. ---0
 paragons of rationallity ---0
 spent peanut butter jars ---0
 I think long and hard before any prosecutuin goes forward. ---0
+I am really delighted in how resilient the kids are and how well they're *taking this all in stride.* ---0
+For SWE, if you are good at Leetcode most interviews are a breeze ---1
+so much of that shouldn't fall on us. ---1
+(context: in the chat)Sorry Jeff didn't see you were added here, didn't mean to speak for you. ---1
+We have the critical mass of people to make it useful ---1
 I would *have liked this* to happen soon as well, too many moving parts at this point. ---1
 What Deb does, she put her head down and she execute. The product speak for itself and all the criticism falls away. ---1
 However, this model immediately *runs into the reality* that finding great growth opportunities is a rare skill that usually only comes with experience. ---1
 We want our company to be spoken in the same breath as the greatest names in our industry. ---1
 You are right for the first time. You gotta go with your gut. ---1
-There is risk that you will have asymmetry when it comes to relationship ---2
 The app has also been independently audited, and while some faults were found, they were not out of the line with those in other apps. ---1
 (meeting)We are just about the time.Regarding IFC, I want to make sure we are reasonable about the time. ---1
 Fascinating - for my edification - any old post to read on details on GT? ---1
@@ -125,18 +134,17 @@ He is enthusiastic about my expectation so I just kind of ran with it. ---1
 It is 24 hour short-notice thing. ---1
 Maybe from UI side, Nishit can speak to that. ---1
 *For the reasons above*, your ask is implicitly creating a new dependency and a contract between our teams. What is your expectations for this contract? ---1
-If you were to do something ---1
+If you were to do something ---2
 What is the right way to do it if we start from scratch ---1
 It is clear that bad seeds are a huge problem. In fact, I would go ahead and assert that they are the single largest source of matching false positives. ---1
 I think that's where SDI's responsibility ends until all the diverse customer teams align their platforms. SDI can't be expected to build 17 different niche implementations. ---1
 You know, last week I was walking down the street, and *there was this homeless man*, digging for bottles in the trash. And yelling at the top of his voice about the president and the country. ---1
 This sort of thing usually fizzles out. ---1
 We are approaching the tail end of Phase A "getting out of risk", with most high-priority problems having at least some defense - although we are continuing add new problems due to external developments. ---1
-There is no need to surgically attribute only impact that landed in June. ---1
+There is no need to surgically attribute only impact that landed in June. ---2
 ovulate ---1
 Help the leadership cut through the fog of war. ---1
 Yilei's attention to detail and critical thinking about the integrity matching problem space has made him someone whose opinion I seek out to validate new ideas ---1
-I think we are assuming that we have a huge gap here but it's most likely not that big of a gap for forward actions. ---2
 To be fair, there hasn't been *nearly as much* interest in any of this *for the last three years combined* as the limelight it received in the last week. ---1
 IRV is really a good hammer to drive this fixing. ---1
 So it has been you, Raymond, all along. ---1
@@ -152,11 +160,11 @@ We are still not out of woods. ---1
 I want this discussion to be as inclusive as possible. So take this document as a start point, not as a finished proposal. ---1
 This is the plan I propose to the board and we are *moving forward* with it. ---1
 I imagine there are similar use cases in Child Safety, and potential, misinformation. So I think you'd get a lot of bang for your buck out of investing here. But I can't speak for all others so I cc'd them here. ---1
-We will still keep photomatchservice as a facade exposing the current method as is. ---2
-I am really delighted in how resilient the kids are and how well they're *taking this all in stride.* ---0
 But she is out of car, start pounding on the windows. I hurry over just in time to hear my wife say. ---1
 I'd be happy to share some notes with you, so hit me up ---1
-I will send that out *after* ---3
+There is risk that you will have asymmetry when it comes to relationship ---2
+I think we are assuming that we have a huge gap here but it's most likely not that big of a gap for forward actions. ---2
+We will still keep photomatchservice as a facade exposing the current method as is. ---2
 I leave the facebook for whatever is worth. ---2
 The summary of it is following. ---2
 In H2, we decided to focus as a team on fewer initiatives with outsized impact. ---2
@@ -169,7 +177,6 @@ I am really afraid that we are going to back ourselves into the corners by frami
 What is it supposed to be in production and what deadline you are working against. ---2
 cotton on ---2
 I gritted through the remaining distance, choking down the pain ---2
-Most people don't expect to be drawn into my world so quickly, and how  they respond can be telling. ---3
 The way the network has dragged their feet on closing the deal ---2
 For whatever reason, I think everyone got kicked out... ---2
 we will regularly revisit the teams' charters, reset the collabroation when necessary. ---2
@@ -193,14 +200,11 @@ It had been a casual, get-to-know-you meeting. But naturally I had hoped that on
 Hello folks, I've just come back a few days of PTO, which *were meant to be* spent in St.Lucia on a beach, but ended up being a few days at home. ---2
 She is a strong women, but she nearly went to pieces when Arine died. ---2
 I have come around to why you lied. ---2
-The sooner we can help them get under the control, the better for the world. ---2
 Do you feel you created a environment where they felt comfortable to come forward. ---2
 I have this desk shelf to elevate my monitor and use this vertical dock for my MacBook Pro. ---2
 I would go out on a limb and saying none of you have actually been upset. ---2
-Add a *hot take* to the rejected pair thread ---3
 Can I get a double check on the number? ---2
-So it doesn't overrun the hospital. ---3
-I thought *that is a given* ---2
+I thought *that is a given* ---3
 Savoring life ---2
 Compromising is condoning ---2
 The embattled leader ---2
@@ -216,6 +220,10 @@ But let's get the but out of the way first. ---2
 People are fighting for their livelihood ---2
 marketing gimmick---2
 I took the opportunity to *exert some leverage*---2
+I will send that out *after* ---3
+Most people don't expect to be drawn into my world so quickly, and how  they respond can be telling. ---3
+Add a *hot take* to the rejected pair thread ---3
+So it doesn't overrun the hospital. ---3
 I have been bidding my time in fear. ---3
 Investor shifted from panic to optimism without missing a beat. ---3
 So here is my line of thinking. ---3
@@ -239,19 +247,16 @@ It is not newly cases, it is newly admitted cases. The real situaion can be seve
 The circumstances has changed ---3
 In an attemp to stave off shortage ---3
 plug away at something ---3
-Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---4
 Call those *dumpster fires* out without fear of ego bruising. ---3
 I will help us stay the course since long term matters and staying focused now is important. ---3
 And unified sampling maximize the sampling overlap that comes for free. ---3
 One way to think about that. As you are finishing up something, you can start priotiizing and planing for what you are going to do next. ---3
 H1 2020 is *well underway here*, it is already *shaping up to be* a monster year for the RM team. The now 30-person RM product team is working toward a ambitious set of goals that well *set up the product* not only for solid A17 compliance, but for success well beyond. ---3
 We would bring along musicians, singers, flutes, the whole shebang. ---3
-In a month from now ---4
 xenophobic fear-mongering ---3
 Will you draw a line on the ownership of banks. ---3
 It is a time sink. ---3
 The little dust-up with Chinese makes us stronger. ---3
-cachet---4
 I fend a lot of stupid people hide behind big words and flowery vocabulary, and a lot of smart people aren't afriad to use basic languages to get their ideas across in an easy to understand way. ---3
 I cannot even begin to express how thrilled I am ---3
 Tweaking rules in favor of engagement with Huawei is politically unpalatable, even when the engagement is in forums as innocuous and dull as standard bodies. ---3
@@ -266,7 +271,6 @@ My father kept a straight face when he joked. ---3
 He knows something is wrong with you so he pressed me. ---3
 Both of them has *some wobble to them*. And it is most noticeable with the most flexible objects such as monitors. ---3
 There is a lot of heart and effort goes into this things. ---3
-incipient ---4
 But I do believe these are important questions that weigh into the legitimacy of what we are doing. ---3
 And this metric is beholden to upstream changes that impacts reactive workload. ---3
 They have done enough damage on glorifying and *glossing over* such misbehaviour, lionizing perpetrators and making excuses for them. ---3
@@ -277,7 +281,6 @@ I have *taken a stab* at drawing up an agenda for next week's offsite. ---3
 If the legendary martial artist were alive today, he *may well wanted to* tweak his maxim by adding one caveat. ---3
 Bottom out---3
 You have got a lot of edge going for you---3
-vagary of weather---4
 The angry audience walked out en masse---3
 egregious---3
 My concentration was so complete that I lost the awareness of my surrounding.---3
@@ -298,6 +301,11 @@ Compulsive (uncontrollable) gambler---3
 I had to learn it one piece at a time, it is very laborious(pron)---3
 fallout from something---3
 Display your modeling *mettle* to the hiring team---3
+Given how broad your *purview* is and how expansive your role is, I imagine you do not have an ordinary day.---4
+In a month from now ---4
+cachet---4
+incipient ---4
+vagary of weather---4
 I do not know if there is anyway around it ---4
 Amazon music is nipping at the heels of Apple music. ---4
 My gut says that it is pretty ambitious for. ---4
