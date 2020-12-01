@@ -1,6 +1,9 @@
+The next few weeks are going to be tough. We are clearly in a triage and we need to stabilized. ---0
+We worked with data science to extract actionable insights from Youtube creators. I am curious how much we can do *in that vein* as well? | There is already a number of workstream in that vein ---0
+slip my head ---0
 TC was great in analyzing the given problem and thinking through the various components. ---0
 There are some lacking aspects on linking cold-start problem to possibly the friend count. ---0
-TC was able to just meet the min bar by writing a optimal linear solution. That said, TC wasn't able to make any significant progress on the hard follow-up. ---0
+TC was able to just meet the min bar by writing a optimal linear solution. That said, TC wasn't able to make any significant progress on the hard follow-up. ---1
 In crissi, facing a significant threat to their business model and sometimes to their very existence. ---0
 I am also trying to do something good here so Tim;s death is not *in vain* ---0
 I am having a blast and I am proud of everything we achieved together. ---0
@@ -20,7 +23,6 @@ But I wanna take a few minutest to reiterate how far we hace come since 2016. --
 Startup failure is easy to *hold up as a type* of martydom for progress, especially if the founders are *starting out scrappy* in the first place and trying to save the world. ---0
 On the other hand, we can think a little *out of box*. We can think of a radical change and a completely moonshot. ---0
 If we *nit it in the bud*, we have done most of the work. ---0
-reap sizable return ---1
 He needs minor degree of hand holding | we are going to build simple user experience that is *just going to handhold them. ***  ---0
 But we are *on hand* in case of any needs ---0
 So we can address multiple challenges systematically, rather than fixing by patching the code. ---0
@@ -29,11 +31,10 @@ How do you see that relationship unfolds, especially if crypto gets much bigger 
 A product that is sure bet suddently struggles ---0
 Let's make sure we are not dropping our guard as we come around the corner of 2020 here. ---0
 Never let anyone outflank you with criticism. ---0
-If you want to adopt this approach it is *as simple as* providing space in written documents and presentations for *a sober analysis* of the risks, challenges and missteps. ---1
 It is challenging but important to maintain perspective. ---0
 Cut down the movie does not elevate the storytelling, it distracts from it. ---0
 To get a better handle on ---0
-I used to work in a high frequency trading company using python. So I do not come with zero Python experience. ---0
+I used to work in a high frequency trading company using python. So I do not come with zero Python experience. ---1
 The #1 and #4 are the most tangible follow-up ---0
 Many people have a strong instinct to present their work *in a favorable light*. Unfortunately, that *introduce an antagonistic dynamic* to reviewers as people feel compelled to dig to get the truth. ---0
 Fan in general has no comprehension how hard it is to *physically* do a transfer. ---0
@@ -53,7 +54,6 @@ I think out idea is along the same line. ---0
 This had led to an execution challenge internally, on aligning and tracking efforts, and externally with increasing churn on product teams. ---0
 If you're skeptical keep in mind that most of the people who use Instagram are outside the US, *as is* most of the potential growth. ---0
 keep that at the top of my mind ---0
-go elsewhere (replace somewhere else) ---1
 They didn't know, he could have known. ---0
 The first thing we focused on is Bitcoin, that is what got us off the ground ---0
 be straight with your message ---0
@@ -73,7 +73,6 @@ pass the buck ---0
 They beat us in the end, but we went down swinging. ---0
 To be clear, I am making this case in all of infra not just IDS, this is something I am seeing more and more of where people are afraid to say no hire either because they want to be nice or don't want to *take a stand* rather would like to *sit on the fence* and "Hire - low confidence" is an easy way out. ---0
 You will be liberated to accomplish the world-changing work you have been *set out to* achieve. ---0
-the ego sucks us down like the law of gravity. ---1
 So it has been you, Raymond. All along. ---0
 I will be at PTO tmw in case people want to poke at this further. ---0
 We are talking about this early on. ---0
@@ -113,12 +112,16 @@ my 15mins meeting might go over ---0
 I would have no hesitation to extend her an offer ---0
 Nicolas and the team are in a hot seat with some election work. ---0
 I think long and hard before any prosecutuin goes forward. ---0
+The way the network has dragged their feet on closing the deal ---0
+reap sizable return ---1
+If you want to adopt this approach it is *as simple as* providing space in written documents and presentations for *a sober analysis* of the risks, challenges and missteps. ---1
+go elsewhere (replace somewhere else) ---1
+the ego sucks us down like the law of gravity. ---1
 When the new technology does not work, you should have a fallback. ---1
 I am glad you did not dump it because it would be a slam-dunk case and it would be absolutely nothing that I can help you. ---1
 stay on track with the goal ---1
 I am really delighted in how resilient the kids are and how well they're *taking this all in stride.* ---1
-It lumps everything together. ---1
-The long term of costs outweight the benefit gained of banning one competitor today. ---2
+It lumps everything together. ---2
 At some point, if everyone you meet smells like poop, maybe check under your shoes. ---1
 jabbing his fingers at protests ---1
 There was something odd about the situation, to say the least. ---1
@@ -137,7 +140,7 @@ It wasn't my strong suit. ---1
 do a quick cursory review ---1
 I am trying to temper my expectation a little given Nishit's learning with CR-based evaluation, but do expect win. ---1
 I don't need you to stick it up for me. ---1
-I will have you know that the clutter often goes hand in hand with creativity. ---1
+I will have you know that the clutter often goes hand in hand with creativity. ---2
 To become great and to stay great, they must all know what came before, what is going on and what comes after. ---1
 Oil, it has been said, is the blood coursing through the veins of economy. ---1
 it will cleaner to say that *out right* ---1
@@ -188,6 +191,7 @@ This is the plan I propose to the board and we are *moving forward* with it. ---
 I imagine there are similar use cases in Child Safety, and potential, misinformation. So I think you'd get a lot of bang for your buck out of investing here. But I can't speak for all others so I cc'd them here. ---1
 But she is out of car, start pounding on the windows. I hurry over just in time to hear my wife say. ---1
 I'd be happy to share some notes with you, so hit me up ---1
+The long term of costs outweight the benefit gained of banning one competitor today. ---2
 jump the gun ---2
 Maybe it is just for me, but you are breaking out a lot ---2
 What Deb does, she put her head down and she execute. The product speak for itself and all the criticism falls away. ---2
@@ -195,7 +199,7 @@ As out team continued to get more nuanced in the policy the slow to execution wi
 The 2018 is really the year that we *bend the curve* of headcount. ---2
 It is important that we set up the right relationship with the right framing, and for more than one reason. ---2
 I would *have liked this* to happen soon as well, too many moving parts at this point. ---2
-The new cases are rising sharply as you can see here. ---2
+The new cases are rising sharply as you can see here. ---3
 do you think you guys already have enough rigor yet in showing the data to outsides. ---2
 I acknowledge that hte process is not right. Totally hear your feedback and I completely echo your frustration. ---2
 Fascinating - for my edification - any old post to read on details on GT? ---2
@@ -209,13 +213,13 @@ supplant ---2
 What Zhang could, would, or might do in the future is a rabbit hole of what-ifs and unanswerable questions. ---2
 You have to protect yourself with full context before you say anything these days because the age of intolerance is *at zenith* in HK. And even *raising an eye-brown* at out-of-control minority's propensity for anarchy and violence in the name of democracy gets you *tarred and feathered* as a nefarious agent of communist party and enemy of humanity. ---2
 If you were to do something ---2
-There is no need to surgically attribute only impact that landed in June. ---2
+There is no need to surgically attribute only impact that landed in June. ---3
 There is risk that you will have asymmetry when it comes to relationship ---2
 I think we are assuming that we have a huge gap here but it's most likely not that big of a gap for forward actions. ---2
 We will still keep photomatchservice as a facade exposing the current method as is. ---2
 I leave the facebook for whatever is worth. ---2
 The summary of it is following. ---2
-In H2, we decided to focus as a team on fewer initiatives with outsized impact. ---2
+In H2, we decided to focus as a team on fewer initiatives with outsized impact. ---3
 Do you have an offical deadline yet or is it still in the air for mid August? ---2
 You know, before the lockdown I sort of share my four priorities and they haven't changed *in the time since*. ---2
 the term is overloaded ---2
@@ -223,7 +227,6 @@ When you scale up the ml model, you will have this *occasional* errors. ---2
 What is it supposed to be in production and what deadline you are working against. ---2
 cotton on ---2
 I gritted through the remaining distance, choking down the pain ---2
-The way the network has dragged their feet on closing the deal ---0
 we will regularly revisit the teams' charters, reset the collabroation when necessary. ---2
 spurious claims ---2
 Most likely, I will have to prioritize fairly heavily, and won't be able to support every request. ---2
@@ -246,10 +249,10 @@ I have come around to why you lied. ---2
 Do you feel you created a environment where they felt comfortable to come forward. ---2
 I would go out on a limb and saying none of you have actually been upset. ---2
 Can I get a double check on the number? ---2
-Savoring life ---2
+Savoring life ---3
 Compromising is condoning ---2
 The embattled leader ---2
-And for almost a year, by its own hand, America's best companies have been frozen out of discussion which define the future ---2
+And for almost a year, by its own hand, America's best companies have been frozen out of discussion which define the future ---3
 There is many assumption about America before I came here and I had come to learn that many of those are wrong. For one, I assumed people are speaking English here. ---2
 The N&P team has *blazed the trail* on this front *with* human review close down well over 50% *year to date*. ---2
 flout laws ---2
@@ -257,7 +260,7 @@ We are taking a short cut approach to directly integrate ODNA with misinfo and c
 Take something as a given. ---2
 Let's stay on the subject, my larger pointer here is ---2
 But let's get the but out of the way first. ---2
-People are fighting for their livelihood ---2
+People are fighting for their livelihood ---3
 marketing gimmick---2
 I took the opportunity to *exert some leverage*---2
 I have this desk shelf to elevate my monitor and use this vertical dock for my MacBook Pro. ---3
