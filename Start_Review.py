@@ -14,6 +14,9 @@ def word_preprocess(item,line_index):
     except:
     	print(item_clean)
     
+    if not isinstance(item_clean[-1],int):
+        raise Exception(f"invalid format found in {line_index} line")
+
     return item_clean
 
 
@@ -22,6 +25,7 @@ def read_data(path):
     words_collection = list()
     for line_index,line in enumerate(freader):
         item = line.strip().split("---")
+        
         item_clean = word_preprocess(item,line_index)
         words_collection.append(item_clean)
 
