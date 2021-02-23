@@ -1,3 +1,12 @@
+go nationwide ---0
+has a upper hand ---0
+In other words, when someone tried hard to alter their thinking, they snapped back like a rubber band. ---0
+Bell told me that when evaluating other people’s ideas, Jobs often pushed back to assert his control. ---0
+Research shows that asking questions instead of giving answers can *overcome* people’s defensiveness. ---0
+When he returned as CEO, it was not only with newfound openness but also with greater determination to hire people ready to challenge him and help him overcome his own worst instincts. That *set the stage* for Apple’s resurgence. ---0
+duke it out ---0
+The students were *supremely* confident in their knowledge—until they were asked to write out their explanations step-by-step. ---0
+the lion’s share ---0
 Tomic is a name that echos *past sentiment of a player with unmatched potential* who threw it all away, a teenage sensation who reached the pinnacle of success *only to* succumb to the pleasures that fame brings.  ---0
 Bitcoin and other cryptocurrencies will come under the spotlight from watchdogs like never before and this can be expected to create volatility in the market. ---0
 We have struck on a formula./ He struck on a idea. ---0
@@ -19,7 +28,6 @@ covet ---0
 You know, a lot of people thought the end was in sight, when the vaccine was approved two months ago. ---0
 If Rockefeller didn't excel in class, it might have been in part because he lacked the bright boy's exhibitionism, the yearing for gold stars; always inner-directed and indifferent to the approval of others, he was therefore free of a certain boyish vanity. ---0
 It is about having to *go into your pocket* in your car when you are paying. ---0
-The hat is really coming in handy. ---1
 Welker knew Washington *would* be called *imminently*. ---0
 His bulldog tenacity *took* people by surprise. ---0
 Despite incessant disappointment, he doggedly pursued a position. ---0
@@ -35,18 +43,16 @@ Collectively, these technologies add up to a lot of possibility. ---0
 We are not *on pace to* hit our goal of 1.5% Producer PR by end of H1 with the current acquisition volume and retention rate. ---0
 Goes without saying, I am fully committed to any support in the next month. ---0
 Snooping for the hints about your birthday? ---0
-On a *practical level*, the most obvious reason to impeach a president is to remove him from office, which would be a *moot point* ---0
-At some points, I still don't know how they figured out we are with CNN. And that is when the crowd really *turned on* us. And there is this waves of anger and aggression just rippled through the crowd. ---0
+On a *practical level*, the most obvious reason to impeach a president is to remove him from office, which would be a *moot point* ---1
+At some points, I still don't know how they figured out we are with CNN. And that is when the crowd really *turned on* us. And there is this waves of anger and aggression just rippled through the crowd. ---1
 Luckily, I got out of there without any physcial assult. But that was a very *hairy* moment. ---0
 People start calling us traitors, and chanting USA, get the f out of here. That was *the kind of the best of it*. Then there is this a lot more aggresive element. You saw guys there saying we can absolutely destroy you. ---0
 Yilei has *established* himself as a core DS in signal pillar. ---0
 Yilei is super talented and focused which is awesome, I would encourage him to start paying attention to his periphery as well. For H2, with US2020 elections *on the horizon*, ---0
 Company X, asked us to complete a project with a typical *four-week-turnover* in only two weeks. ---0
 She *must have* found the religious atmosphere in the town is suitably *wholesome*. ---0
-He was an epidemiologist *by the name* of Tom Junge. ---1
 When selling his patent medicine, his marksmanship *served him* extremely well ---0
 prowess ---0
-To add to the intrigue, each of us has a piece of puzzle but none of us know the whole picture. ---1
 butcher the description ---0
 very kind of Grigorios to send you our way. ---0
 sorry I cannot make the time this week. ---0
@@ -60,7 +66,6 @@ More often than not, the problems that grab out attention are ones that resonate
 So it wasn't a easy decision, so mixed feelings would be more accurate. But the excitement eventually wins out. ---0
 I didn't know there is a problem in the team. I fell sleep at the wheel. ---0
 I know this is a diffcult news to receive. Let me know if you need a few minutes alone, or you want to talk more later. ---0
-The victory over Aston Villa takes Spurs within touching distance of the top four. ---1
 The next few weeks are going to be tough. We are clearly in a triage and we need to stabilized. ---0
 We worked with data science to extract actionable insights from Youtube creators. I am curious how much we can do *in that vein* as well? | There is already a number of workstream in that vein ---0
 slip my head ---0
@@ -80,13 +85,11 @@ Let's make sure we are not dropping our guard as we come around the corner of 20
 Never let anyone outflank you with criticism. ---0
 To get a better handle on ---0
 Many people have a strong instinct to present their work *in a favorable light*. Unfortunately, that *introduce an antagonistic dynamic* to reviewers as people feel compelled to dig to get the truth. ---0
-TC shows spotty knowledge in hypothesis testing. ---1
 hold the line ---0
 This is a opinion piece which will get little pick-up as it deserves. ---0
 Have you ever taken a pitcutre of a spectacular moonrise *only to be* disappointed at how small the moon looks in the resulting photo. ---0
 Last time we had a discussion over bank coverage. Kind of want to have a check on where landed on that. ---0
 Last year you played Novak in this court and he beats you three straight sets. ---0
-Is this something we should nudge them to do this. ---1
 keep that at the top of my mind ---0
 They didn't know, he could have known. ---0
 The first thing we focused on is Bitcoin, that is what got us off the ground ---0
@@ -120,13 +123,17 @@ The analysis of this issue is ongoing, and these results are provisional. ---0
 What is your reckoning on that ---0
 my 15mins meeting might go over ---0
 The way the network has dragged their feet on closing the deal ---0
+The hat is really coming in handy. ---1
+He was an epidemiologist *by the name* of Tom Junge. ---1
+To add to the intrigue, each of us has a piece of puzzle but none of us know the whole picture. ---1
+The victory over Aston Villa takes Spurs within touching distance of the top four. ---1
+TC shows spotty knowledge in hypothesis testing. ---1
+Is this something we should nudge them to do this. ---1
 humility ---1
 But sometimes this metric needs to *take a backseat*. ---1
-going against grain ---2
 The candidate was *strong across the board despite some early missteps* in the stats section. TC forgot the *specfics* of power analysis which is a red flag. However I still *come away with a positive impression* from this section. ---1
 And honestly I like her. Which could *go a long way* to make this work. ---1
 Nicolas and the team are in a hot seat with some election work. ---1
-Snap has spend an aweful lot of time proving the worth of the features that they've been pushing for years. ---2
 He needs minor degree of hand holding | we are going to build simple user experience that is *just going to handhold them. ***  ---1
 It is challenging but important to maintain perspective. ---1
 The #1 and #4 are the most tangible follow-up ---1
@@ -154,12 +161,10 @@ the issue of food safety seems to *strike a chord* with almost everyone ---1
 In hindsight, that's been the easiest part of all of this. Once my kids settled into the new routines, and their school figured out new technology to enable effective learning, that piece of this new normal actually becomes our saving grace[the redeeming factor]. ---1
 It is really important to *contrast* the traditional financial system and this new open financial system. ---1
 Yes this is a productive discussion. Tone gets lost in workchat, but it is *as effective as* it can gets. ---1
-If you're skeptical keep in mind that most of the people who use Instagram are outside the US, *as is* most of the potential growth. ---1
+If you're skeptical keep in mind that most of the people who use Instagram are outside the US, *as is* most of the potential growth. ---2
 I am snooping on his calendar. ---1
 The big question *looms for customer* this year is ---1
-I try to put together a complete list. But if I just rattle off the name, it will sound like a alphabet soup. ---2
 But I wanna take a few minutest to reiterate *how far we have come* since 2016. ---1
-argue in our favour ---2
 hit rock bottom ---1
 I would have no hesitation to extend her an offer ---1
 I would aslo hope as we see what those users are doing, we can automate MMS usage so that we can keep raising the bar of what the platform provided. ---1
@@ -179,10 +184,9 @@ Very little fluff was given in the answer and the candidate always tries to ensu
 Let's take this opportunity up with our both hands. ---1
 It would be hard to scare up 10 people to attend this meeting. ---1
 hand-out ---1
-We are *erring too far on the side of* allowing groups to become homes for hateful content in the comments. ---2
 I am trying to temper my expectation a little given Nishit's learning with CR-based evaluation, but do expect win. ---1
 I don't need you to stick it up for me. ---1
-it will cleaner to say that *out right* ---1
+it will cleaner to say that *out right* ---2
 Consider the below as a straw-man proposal for discussion. But I would really like us to try and standardize on the terminology so we can all speak the same language. ---1
 ludicrous ---1
 spent peanut butter jars ---1
@@ -192,7 +196,6 @@ Since we do not know if it'd be high risk, we *err on the side of T1* if it mees
 For SWE, if you are good at Leetcode most interviews are a breeze ---1
 so much of that shouldn't fall on us. ---1
 We want our company to be spoken in the same breath as the greatest names in our industry. ---1
-(meeting)We are just about the time.Regarding IFC, I want to make sure we are reasonable about the time. ---2
 opportunity size ---1
 Rein in govenment spending. ---1
 He is enthusiastic about my expectation so I just kind of ran with it. ---1
@@ -206,6 +209,12 @@ IRV is really a good hammer to drive this fixing. ---1
 The public sector is stting on a massive troves of data. ---1
 He did not stats very well. He really dropped the ball over there. So for me, he is a no-go. ---1
 This is the plan I propose to the board and we are *moving forward* with it. ---1
+going against grain ---2
+Snap has spend an aweful lot of time proving the worth of the features that they've been pushing for years. ---2
+I try to put together a complete list. But if I just rattle off the name, it will sound like a alphabet soup. ---2
+argue in our favour ---2
+We are *erring too far on the side of* allowing groups to become homes for hateful content in the comments. ---2
+(meeting)We are just about the time.Regarding IFC, I want to make sure we are reasonable about the time. ---2
 *For the time being*, we are looking for an incremental step. We are going to start with photo, and then the text and video ---2
 get a kickout of ---2
 To be fair, there hasn't been *nearly as much* interest in any of this *for the last three years combined* as the limelight it received in the last week. ---2
